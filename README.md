@@ -6,7 +6,7 @@
 
 ![](.gitbook/assets/orgsbanner.png)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 This is a live document. Expect frequent updates until the summer sessions start June 1, 2020.
 {% endhint %}
 
