@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CxD 2020 Overview](README.md)
+* [Computing by Design 2020](README.md)
 * [Schedule](schedule.md)
 * [About Us](about-us.md)
 

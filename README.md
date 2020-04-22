@@ -1,4 +1,4 @@
-# CxD 2020 Overview
+# Computing by Design 2020
 
 ## Welcome!
 
