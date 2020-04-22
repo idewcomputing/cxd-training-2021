@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-**Welcome to the Computing by Design \(CxD\) summer training sessions for 2020!**This year's online sessions include four modules that introduce the CxD framework and practical projects that employ the framework. The sessions culminate with the construction of an instructional plan that facilitates computer science learning in your individual context. The [**base schedule**](schedule.md) spans the month of June, but you may choose to accelerate through faster.
+**Welcome to the Computing by Design \(CxD\) summer training sessions for 2020!** This year's online sessions include four modules that introduce the CxD framework and practical projects that employ the framework. The sessions culminate with the construction of an instructional plan that facilitates computer science learning in your individual context. The [**base schedule**](schedule.md) spans the month of June, but you may choose to accelerate through faster.
 
 ![](.gitbook/assets/orgsbanner.png)
 
