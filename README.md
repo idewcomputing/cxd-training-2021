@@ -1,7 +1,7 @@
 # Computing by Design 2020
 
 {% hint style="info" %}
-This is a live document. Expect frequent updates until the summer sessions start June 1, 2020.
+This is a living document. Expect frequent updates until the summer sessions start June 1, 2020.
 {% endhint %}
 
 ## Welcome!
