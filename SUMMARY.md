@@ -23,3 +23,7 @@
 * [Guide to Instructional Plan](instructional-plan/guide.md)
 * [Final Review of Instructional Plan](instructional-plan/final-review.md)
 
+## Resources
+
+* [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
+
