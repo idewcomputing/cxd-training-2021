@@ -26,4 +26,5 @@
 ## Resources
 
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
+* [K12 CS Framework \(US\)](https://k12cs.org/wp-content/uploads/2016/09/K%E2%80%9312-CS-Framework-Statements-Grade-Band-View.pdf)
 
