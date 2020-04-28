@@ -8,5 +8,21 @@ Drawing on 15 years of industry experience as an engineer and designer, plus ove
 
 {% embed url="https://soic.iupui.edu/people/james-lyst/" %}
 
-## 
+## Vicki Daugherty
+
+**Program Manager and Diversity Coordinator**
+
+Joining IUPUI in 1995, Vicki Daugherty is the program manager for Informatics Diversity Enhanced Workforce \(iDEW\) and diversity coordinator at the IU School of Informatics and Computing at IUPUI. Computing by Design \(CxD\) is a product of the iDEW program. [https://www.linkedin.com/in/vicki-daugherty-2b86308/](https://www.linkedin.com/in/vicki-daugherty-2b86308/)
+
+{% embed url="https://soic.iupui.edu/people/vicki-daugherty/" %}
+
+## Dr. Mathew Palakal
+
+**Senior Executive Associate Dean of School of Informatics and Computing at IUPUI**
+
+Dr. Mathew Palakal ****is a professor of Informatics in the IU School of Informatics & Computing \(SoIC\) and Senior Executive Associate Dean of SoIC at IUPUI. His primary research is in artificial intelligence and machine learning. His passion is to bridge the gap of underserved-underrepresented minority populations in the IT workforce. He was a key architect of the Informatics Diversity Enhanced Workforce \(iDEW\) program that uses the Computing by Design \(CxD\) curriculum. iDEW was implemented five years ago in three Indianapolis high schools with 70 students, to broaden IT-workforce participation. Nearly 1,700 students have taken CxD courses in 100 classes at eight high schools to date. The iDEW program has received +$2.1 million in corporate/foundation funding, and a Skill-Up grant from the Indiana Dept. of Workforce Development.
+
+{% embed url="https://soic.iupui.edu/people/mathew-palakal/" %}
+
+
 
