@@ -10,7 +10,7 @@
 
 ![](.gitbook/assets/orgsbanner.png)
 
-## Primary Tools
+## Workshop Tools
 
 We strive to make learning accessible with free and browser-based tools whenever possible, and that goes for these sessions as well. Below are the primary tools we will be using, and you can find links to an explanation of how we will use each tool, along with pointers on particular features.
 

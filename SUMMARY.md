@@ -4,7 +4,7 @@
 * [Schedule](schedule.md)
 * [About Us](about-us.md)
 
-## Primary Tools <a id="tools"></a>
+## Workshop Tools <a id="tools"></a>
 
 * [Slack](tools/slack.md)
 * [Zoom](tools/zoom.md)
