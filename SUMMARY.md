@@ -14,7 +14,7 @@
 ## Modules
 
 * [CxD Framework](modules/cxd-framework/README.md)
-  * [Introcution](https://docs.idew.org/the-cxd-framework/)
+  * [Introduction](https://docs.idew.org/the-cxd-framework/)
   * [Approach](https://docs.idew.org/the-cxd-framework/about-cxd)
   * [Standard Project Outline](https://docs.idew.org/the-cxd-framework/standard-project-outline)
   * [Student Profile](https://docs.idew.org/the-cxd-framework/student-profile)
