@@ -13,7 +13,11 @@
 
 ## Modules
 
-* [CxD Framework](modules/cxd-framework.md)
+* [CxD Framework](modules/cxd-framework/README.md)
+  * [Introcution](https://docs.idew.org/the-cxd-framework/)
+  * [Approach](https://docs.idew.org/the-cxd-framework/about-cxd)
+  * [Standard Project Outline](https://docs.idew.org/the-cxd-framework/standard-project-outline)
+  * [Student Profile](https://docs.idew.org/the-cxd-framework/student-profile)
 * [Trivia Project](modules/trivia-project.md)
 * [Chatbot Project](modules/chatbot-project.md)
 * [IoT Project](modules/iot-project.md)

@@ -28,7 +28,7 @@ Each project may require other tools, but we will provide guidance for those whe
 
 Each module will have a series of videos leading towards a module deliverable to share with colleagues. On our Slack workspace you will find  a _channel for discussion_ and _a channel for sharing deliverables_ with each module. You will also have options for live Zoom meetings according to [the schedule](schedule.md).
 
-\*\*\*\*[**Module 1 : CxD Framework**](modules/cxd-framework.md) - We will cover the _big picture_ of the CxD framework, connecting it to fundamental concepts in science, design, and innovation. ****
+\*\*\*\*[**Module 1 : CxD Framework**](modules/cxd-framework/) - We will cover the _big picture_ of the CxD framework, connecting it to fundamental concepts in science, design, and innovation. ****
 
 \*\*\*\*[**Module 2 : Trivia Project**](modules/trivia-project.md) - The Trivia Project provides a great entry point into computing applications and the various activities and roles in innovative product development. 
 

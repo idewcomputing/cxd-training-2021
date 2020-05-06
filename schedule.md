@@ -6,7 +6,7 @@ _Video coming shortly..._
 
 ## Week 1 \(June 1 - 5\)
 
-* [ ] **Content:** Primary tools and [CxD Framework](modules/cxd-framework.md).
+* [ ] **Content:** Primary tools and [CxD Framework](modules/cxd-framework/).
 * [ ] **Discuss Content on Slack:**  `#discuss-m1-cxd`
 * [ ] **Discuss Content on Zoom:** 12pm-2pm Tue/Wed/Thr/Fri \(Choose 1 day or more\)
 * [ ] **Share Deliverable on Slack:** Slack `#share-m1-cxd-deliverable`
