@@ -1,2 +1,2 @@
-# Guide to Instructional Plan
+# Guide to Project Plan
 
