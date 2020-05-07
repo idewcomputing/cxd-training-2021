@@ -3,6 +3,7 @@
 * [Computing by Design 2020](README.md)
 * [Schedule](schedule.md)
 * [Workshop Tools](workshop-tools.md)
+* [Optional Pre-Work](optional-pre-work.md)
 * [About Us](about-us.md)
 
 ## Modules
