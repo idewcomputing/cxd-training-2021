@@ -2,25 +2,31 @@
 
 We strive to make learning accessible with free and browser-based tools whenever possible, and that goes for this workshop as well. Below are the primary tools we will be using along with pointers on particular features.
 
-{% hint style="info" %}
-Each project may use other tools, but we will provide guidance for those when the need arises.
-{% endhint %}
+_\*\* Each project may use additional tools, but we will provide guidance for those when the need arises._
 
-### Slack
+## Slack
 
 [**Slack**](https://slack.com), an industry favorite, will support our daily communication during these sessions.
 
-### Zoom
+![](.gitbook/assets/vidcoming.png)
+
+## Zoom
 
 \*\*\*\*[**Zoom**](https://zoom.com), a popular video conferencing platform, will be used for our live [scheduled discussions](schedule.md). 
 
-### Google Drive
+![](.gitbook/assets/vidcoming.png)
+
+## Google Drive
 
 \*\*\*\*[**Google Drive**](https://drive.google.com) provides a suite of valuable tools that most are already familiar with.
 
-### Repl.it
+![](.gitbook/assets/vidcoming.png)
+
+## Repl.it
 
 [**Repl.it**](https://repl.it) will be the go-to platform for most coding tasks. 
+
+![](.gitbook/assets/vidcoming.png)
 
 
 

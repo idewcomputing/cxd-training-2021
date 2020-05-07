@@ -7,7 +7,7 @@ Each module has _content_ \(videos and reading\) to review and  and ends with a 
 ## Week 1 \(June 1 - 5\)
 
 * [ ] **Content:** [Foundations](modules/cxd-framework/)
-* [ ] **Discuss Content and Share Findings on Slack:**  `#cohort*-module1-cxd`
+* [ ] **Discuss Content and Share Findings on Slack:**  `#cohort*-module1-foundations`
 * [ ] **Discuss Content and Share Findings on Zoom \(Live Open Discussion\)** Cohort 1: Wed 1pm - 3pm Cohort 2: Thur 1pm - 3pm Cohort 3: Fri 1pm - 3pm
 * [ ] **Post Reflections:** TBD
 
