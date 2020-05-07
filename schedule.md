@@ -13,7 +13,7 @@ Each module has _content_ \(videos and reading\) to review and  and ends with a 
 
 ## Week 2 \(June 8 - 12\)
 
-* [ ] **Live PBLWorks Workshop:** Monday at TBD
+* [ ] **++++++ Live PBLWorks Workshop:** Monday, June 8 @ TBD **++++++**
 * [ ] **Content:** [Trivia Project](modules/trivia-project/)
 * [ ] **Discuss Content and Share Findings on Slack:**  `#cohort*-module2-trivia`
 * [ ] **Discuss Content and Share Findings on Zoom \(Live Open Discussion\)** Cohort 1: Wed 1pm - 3pm Cohort 2: Thur 1pm - 3pm Cohort 3: Fri 1pm - 3pm
