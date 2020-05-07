@@ -35,7 +35,7 @@
 
 ## Resources
 
-* [Computing by Design Home](https://docs.idew.org/the-cxd-framework/)
+* [Computing by Design Docs](https://docs.idew.org/the-cxd-framework/)
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
 * [US K12 CS Framework](https://k12cs.org/wp-content/uploads/2016/09/K%E2%80%9312-CS-Framework-Statements-Grade-Band-View.pdf)
 * [IN Work-Based Learning Manual](https://www.doe.in.gov/sites/default/files/wf-stem/indiana-k-12-work-based-learning-manual-final.pdf)
