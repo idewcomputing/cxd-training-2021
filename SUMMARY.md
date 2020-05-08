@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Computing by Design 2020](README.md)
+* [Slack Workspace](https://cxd2020.slack.com)
 * [Schedule](schedule.md)
 * [Programming Pre-Work](programming-pre-work.md)
 * [Workshop Tools](workshop-tools.md)
