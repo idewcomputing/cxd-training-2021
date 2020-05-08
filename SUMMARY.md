@@ -2,8 +2,8 @@
 
 * [Computing by Design 2020](README.md)
 * [Schedule](schedule.md)
-* [Workshop Tools](workshop-tools.md)
 * [Programming Pre-Work](programming-pre-work.md)
+* [Workshop Tools](workshop-tools.md)
 * [About Us](about-us.md)
 
 ## Modules
