@@ -8,7 +8,7 @@ _\*\* Each project may use additional tools, but we will provide guidance for th
 
 [**Slack**](https://slack.com), an industry favorite, will support our daily communication during the workshop. If you are unfamiliar with Slack, take a look at their [**help pages on using slack**](https://slack.com/help/categories/200111606)**,** and review the "Send Messages" and "Share Files & Conversations" sections**.** Don't feel like you need to understand all the features. We will likely stick with the basics. The video below highlights some basic features that will be useful for the workshop. 
 
-![](.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/4fcfd00f787747ac995a447899743e55" %}
 
 ## Zoom
 
