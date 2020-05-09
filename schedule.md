@@ -2,7 +2,7 @@
 
 The schedule below is a minimum pacing guide for our online experience, but you may choose an accelerated path over two or three weeks. We have attempted to provide flexibility while not making things too complex. 
 
-Each module has _content_ \(videos and reading\) to review and  and ends with a _reflection_ survey. Your final product will be a _project plan_ for your classroom context.
+Each module has _content_ \(videos and reading\) to review and ends with a _reflection_ survey. Your final product will be a _project plan_ for your classroom context.
 
 ## Week 1 \(June 1 - 5\)
 
