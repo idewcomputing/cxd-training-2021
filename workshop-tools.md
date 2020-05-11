@@ -24,7 +24,7 @@ _\*\* Each project may use additional tools, but we will provide guidance for th
 
 ## Repl.it
 
-[**Repl.it**](https://repl.it) will be the go-to platform for most programming tasks.  It is free, browser-based, and has a lot of useful features. If you already have some programming experience, go ahead and poke around a bit on the platform. 
+[**Repl.it**](https://repl.it) will be the go-to platform for most programming tasks.  It is free, browser-based, and has a lot of useful features. If you already have some programming experience, go ahead and poke around a bit on the platform. **As a teacher, you will likely want to get the free classroom plan that supports having private code, even if you don't use all the classroom features. Here is the link to apply,** [**https://repl.it/k12-form**](https://repl.it/k12-form)**.**
 
 If you have little or no experience programming, _no problem_,  follow the quick start video below  where you will 1\) sign up, 2\) make a copy \(_fork_\) of ****[**this program**](https://repl.it/@jimlyst/Hello-World), and 3\) click `run` to see the result. That's it for now. We'll dive deeper later. 
 
