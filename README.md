@@ -1,7 +1,7 @@
 # Computing by Design 2020
 
 {% hint style="warning" %}
-**Expect frequent updates until the summer workshop starts June 1, 2020.**
+**Expect frequent updates until the summer workshop starts June 1, 2020.** 
 {% endhint %}
 
 ## Welcome!
