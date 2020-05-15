@@ -12,7 +12,7 @@ _\*\* Each project may use additional tools, but we will provide guidance for th
 
 ## Zoom
 
-\*\*\*\*[**Zoom**](https://zoom.com), a popular video conferencing platform, will be used for our live [**scheduled discussions**](schedule.md) and ad hoc discussions as needed. If you haven't used Zoom much take a look at [**getting setup on your desktop**](https://support.zoom.us/hc/en-us/sections/200305583-Desktop)**,** [**testing audio**](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)**,** and ****[**testing video**](https://support.zoom.us/hc/en-us/articles/201362313-How-Do-I-Test-My-Video-)**.** The video tutorial below explains how to share your screen, which will come in handy to get feedback on something  or to demonstrate something you have done.
+\*\*\*\*[**Zoom**](https://zoom.com), a popular video conferencing platform, will be used for our live [**scheduled discussions**](../schedule.md) and ad hoc discussions as needed. If you haven't used Zoom much take a look at [**getting setup on your desktop**](https://support.zoom.us/hc/en-us/sections/200305583-Desktop)**,** [**testing audio**](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)**,** and ****[**testing video**](https://support.zoom.us/hc/en-us/articles/201362313-How-Do-I-Test-My-Video-)**.** The video tutorial below explains how to share your screen, which will come in handy to get feedback on something  or to demonstrate something you have done.
 
 {% embed url="https://youtu.be/YA6SGQlVmcA" %}
 
@@ -28,7 +28,7 @@ _\*\* Each project may use additional tools, but we will provide guidance for th
 
 If you have little or no experience programming, _no problem_,  follow the quick start video below  where you will 1\) sign up, 2\) make a copy \(_fork_\) of ****[**this program**](https://repl.it/@jimlyst/Hello-World), and 3\) click `run` to see the result. That's it for now. We'll dive deeper later. 
 
-![](.gitbook/assets/vidcoming.png)
+![](../.gitbook/assets/vidcoming.png)
 
 
 
