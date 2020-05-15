@@ -13,9 +13,9 @@
 ## Modules
 
 * [Foundations](modules/cxd-framework/README.md)
-  * [CxD Framework](modules/cxd-framework/cxd-framework.md)
-  * [Core Skills and Practices](modules/cxd-framework/core-skills-and-practices.md)
-  * [Project Planning](modules/cxd-framework/project-planning.md)
+  * [The Three Threads of Innovative Work](modules/cxd-framework/the-three-threads-of-innovative-work.md)
+  * [Mapping Skills and Practices](modules/cxd-framework/mapping-skills-and-practices.md)
+  * [The CxD Framework](modules/cxd-framework/cxd-framework.md)
   * [Core Programming Concepts](modules/cxd-framework/core-programming-concepts.md)
 * [Trivia Project](modules/trivia-project/README.md)
   * [Define Problem & Propose Solution](modules/trivia-project/define-problem-and-propose-solution.md)
