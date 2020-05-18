@@ -1,4 +1,4 @@
-# Mapping Skills and Practices
+# Mapping Innovative Practices
 
 ![](../../.gitbook/assets/vidcoming.png)
 
