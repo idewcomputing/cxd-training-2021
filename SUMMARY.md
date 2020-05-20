@@ -3,11 +3,11 @@
 * [Computing by Design 2020](README.md)
 * [Schedule](schedule.md)
 * [About Us](about-us.md)
-* [Slack Workspace](https://cxd2020.slack.com)
 
 ## Preparation
 
 * [Workshop Tools](preparation/workshop-tools.md)
+* [Slack Workspace](https://cxd2020.slack.com)
 * [Programming Prep](preparation/programming-pre-work.md)
 
 ## Modules
