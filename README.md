@@ -1,3 +1,7 @@
+---
+description: Preparing Innovators in Computing
+---
+
 # Computing by Design 2020
 
 {% hint style="warning" %}
