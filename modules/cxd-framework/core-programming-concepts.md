@@ -2,3 +2,5 @@
 
 ![](../../.gitbook/assets/vidcoming.png)
 
+We will cover some basic concepts in programming that can provide a launching point into various contexts \(programming languages and frameworks\) and become familiar with programming tools, such as [repl.it](https://repl.it).
+
