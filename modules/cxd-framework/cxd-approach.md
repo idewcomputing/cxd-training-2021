@@ -4,6 +4,12 @@
 
 We will explore **primary learning objectives** for a computer science course and an achievable **student profile** that exhibits the attributes of a life-long learner and doer.  We will consider the **three threads of an innovator's work** and how we can use the classroom as a bridge for students to participate in the modern world .  We will review basic **industry practices to manage project work** and how to replicate them in an appropriate way for classrooms.
 
+### Prompts for Discussion \(on Slack \#cohort\*-module1-foundations\)
+
+* What do you see as primary roadblocks for students to engage CS?
+* What opportunities do you see to better engage students?
+* What _Agile-like_ manifesto statements would you consider for your classroom to set the tone?
+
 ### Module Material
 
 {% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}

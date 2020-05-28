@@ -4,6 +4,11 @@
 
 We will go through the **three phases of a standard project outline** and discuss the primary activities in completing projects. We will review the important milestones of the **public presentations and deliverables**. We will consider how teams of students may progress through the project, sometimes in a linear series and other times in parallel tracks. Finally, we will see how students may develop **a product feature map** for organizing work and communicating progress.
 
+### Prompts for Discussion \(on Slack \#cohort\*-module1-foundations\)
+
+* What visual cues or weekly practices might you use to keep students and teams moving forward and aware of the broader context of their project work?
+* What industry or community organizations might partner with you and your students?
+
 ### Module Material
 
 {% embed url="https://docs.google.com/drawings/d/1tJktrui7c1D-SVvhL5r2-M87mHDok\_4-4-SCOp1MWvk/edit?usp=sharing" %}
