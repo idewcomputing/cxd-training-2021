@@ -10,6 +10,10 @@ We will map the **thinking, doing, and interactions of innovation** to provide p
 
 {% embed url="https://my.pblworks.org/resource/document/gold\_standard\_pbl\_essential\_project\_design\_elements" %}
 
+{% embed url="https://www.viima.com/blog/the-aha-moment-fallacy" %}
+
+{% embed url="https://www.viima.com/blog/unanticipated-and-undesirable-consequences-of-innovation" %}
+
 **More:**  [**CS Standards Spreadsheet**](https://docs.google.com/spreadsheets/d/1NX5hL3benDO9Ruo85qzssl6qO0L2v6Ae2jEJlGQd6JU/edit?usp=sharing)\*\*\*\*
 
 ### \*\*\*\*[**Quick Access to Workshop Google Drive**](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)\*\*\*\*
