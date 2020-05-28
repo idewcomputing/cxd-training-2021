@@ -10,6 +10,8 @@ We will map the **thinking, doing, and interactions of innovation** to provide p
 
 {% embed url="https://my.pblworks.org/resource/document/gold\_standard\_pbl\_essential\_project\_design\_elements" %}
 
+{% embed url="https://www.gqrgm.com/market-projections-future-jobs-report-2018-summary/" %}
+
 {% embed url="https://www.viima.com/blog/the-aha-moment-fallacy" %}
 
 {% embed url="https://www.viima.com/blog/unanticipated-and-undesirable-consequences-of-innovation" %}
