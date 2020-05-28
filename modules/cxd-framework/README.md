@@ -1,8 +1,8 @@
 # Foundations
 
-> ### **What is the** _**big picture**_ **of the Computing by Design \(CxD\) framework? How is it connected to fundamental concepts in science, design, and innovation? How can we introduce industry practices in a classroom environment?**
+### **What is the** _**big picture**_ **of the Computing by Design \(CxD\) framework? How is it connected to fundamental concepts in science, design, and innovation? How can we introduce industry practices in a classroom environment?**
 
-**We will answer these questions and more through the following topics.**
+We will answer these questions and more through the following topics.
 
 ### \*\*\*\*[**The CxD Approach**](cxd-approach.md)\*\*\*\*
 
