@@ -23,6 +23,8 @@ We will go through the **three phases of a standard project outline** and discus
 
 {% embed url="https://www.lucidchart.com/blog/how-to-create-a-user-story-map" %}
 
+{% embed url="https://www.edutopia.org/practice/community-partners-making-student-learning-relevant" %}
+
 **More:** [**Another Guide to User Story Mapping**](https://plan.io/blog/user-story-mapping/)\*\*\*\*
 
 ### [Quick Access to Workshop Google Drive](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)
