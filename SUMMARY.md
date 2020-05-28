@@ -16,7 +16,7 @@
   * [The CxD Approach](modules/cxd-framework/cxd-approach.md)
   * [Mapping Innovative Practices](modules/cxd-framework/mapping-skills-and-practices.md)
   * [The CxD Project Framework](modules/cxd-framework/cxd-framework.md)
-  * [Core Programming Concepts](modules/cxd-framework/core-programming-concepts.md)
+  * [Programming Warm Up](modules/cxd-framework/core-programming-concepts.md)
   * [A Teacher's Insight](modules/cxd-framework/a-teachers-insight.md)
 * [Trivia Project](modules/trivia-project/README.md)
   * [Define Problem & Propose Solution](modules/trivia-project/define-problem-and-propose-solution.md)

@@ -16,9 +16,9 @@ We will map the **thinking, doing, and interactions of innovation** to provide p
 
 We will go through the **three phases of a standard project outline** and discuss the primary activities in completing projects. We will review the important milestones of the **public presentations and deliverables**. We will consider how teams of students may progress through the project, sometimes in a linear series and other times in parallel tracks. Finally, we will see how students may develop **a product feature map** for organizing work and communicating progress.
 
-### \*\*\*\*[**Core Programming Concepts**](core-programming-concepts.md)\*\*\*\*
+### \*\*\*\*[**Programming Warm Up**](https://app.gitbook.com/@cxd/s/cxd2020/~/drafts/-M8REDYTusR9uw7LSsVf/modules/cxd-framework/core-programming-concepts)\*\*\*\*
 
-We will cover some **basic concepts in programming** that can provide a launching point into various contexts \(programming languages and frameworks\) and become familiar with **programming tools**, such as [repl.it](https://repl.it).
+We will cover some **basic concepts in programming with HTML and CSS** that can provide a launching point into our projects.
 
 ### \*\*\*\*[**A Teacher's Insight**](a-teachers-insight.md)\*\*\*\*
 
