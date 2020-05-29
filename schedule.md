@@ -15,7 +15,7 @@ Each module has _content_ \(videos and reading\) to review and ends with a _refl
 
 ## Week 2 \(June 8 - 12\)
 
-* [ ] **++++++** [**Live PBLWorks Project Slice Workshop**](https://www.pblworks.org/services/project-slice)**:** Monday, June 8, 8:30am to 3:30am **++++++**
+* [ ] **++++++** [**Live PBLWorks Project Slice Workshop**](https://www.pblworks.org/services/project-slice)**:** Monday, June 8, 8:30am to 3:30pm **++++++**
 * [ ] **Content:** [Trivia Project](modules/trivia-project/)
 * [ ] **Discuss Content and Share Findings on Slack:**  `#cohort*-module2-trivia`
 * [ ] **Discuss Content and Share Findings on Zoom \(Live Open Discussion\)** Cohort 1: Wed 1pm - 3pm Cohort 2: Thur 1pm - 3pm Cohort 3: Fri 1pm - 3pm
