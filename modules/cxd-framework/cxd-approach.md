@@ -16,6 +16,8 @@ We will explore **primary learning objectives** for a computer science course an
 
 {% embed url="https://docs.google.com/drawings/d/1GKae-4RhODlonst4LbUoc8u6020VVdmxgBjN8ft9T94/edit?usp=sharing" %}
 
+{% embed url="https://www.pblworks.org/blog/teachable-moment-how-pbl-can-shift-future-education" %}
+
 {% embed url="https://agilemanifesto.org/" %}
 
 {% embed url="https://medium.com/laboratoria/the-agile-classroom-embracing-an-agile-mindset-in-education-ae0f19e801f3" %}
