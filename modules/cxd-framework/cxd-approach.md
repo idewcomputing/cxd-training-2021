@@ -6,8 +6,8 @@ We will explore **primary learning objectives** for a computer science course an
 
 ### Prompts for Discussion \(on Slack \#cohort\*-module1-foundations\)
 
-* What do you see as primary roadblocks for students to engage CS?
-* What opportunities do you see to better engage students?
+* What do you see as primary roadblocks and opportunities for students to engage CS?
+* How might you have students track project work? What methods have you used in the past?
 * What _Agile-like_ manifesto statements would you consider for your classroom to set the tone?
 
 ### Module Material
