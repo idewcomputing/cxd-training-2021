@@ -21,6 +21,7 @@ Most activities are asynchronous, where you can watch videos, read material, and
 1. **Review the primary** [**workshop tools**](preparation/workshop-tools.md)\*\*\*\*
 2. **Join** [**our Slack workspace**](https://cxd2020.slack.com) **and select a cohort**
 3. **Take a look at the** [**programming preparation options**](preparation/programming-pre-work.md)**.**
+4. **Join us in one of our welcome Zoom sessions:** Monday, June 1, 9am or 3pm
 
 ![](.gitbook/assets/orgbanner.png)
 
