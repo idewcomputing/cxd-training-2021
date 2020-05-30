@@ -16,6 +16,8 @@ We will explore **primary learning objectives** for a computer science course an
 
 {% embed url="https://galleries.idew.org" %}
 
+{% embed url="https://docs.idew.org" %}
+
 {% embed url="https://docs.google.com/drawings/d/1GKae-4RhODlonst4LbUoc8u6020VVdmxgBjN8ft9T94/edit?usp=sharing" %}
 
 {% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}
