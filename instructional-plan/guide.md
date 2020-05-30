@@ -2,6 +2,8 @@
 
 Whether you are intending to run a single project as the main activity for a semester or inject a smaller project within another instructional context, you can use [**this template**](https://docs.google.com/document/d/1H-VrDuWMlp4r6uCqIF1fx5NQlTjsBa_4TErhwKJYejc/edit?usp=sharing) ****as a starting point. You may also want to use \(or borrow ideas from\) the ****[**PBLWorks project planner**](https://my.pblworks.org/planner)**.**
 
+{% embed url="https://my.pblworks.org/planner" %}
+
 {% embed url="https://docs.google.com/document/d/1H-VrDuWMlp4r6uCqIF1fx5NQlTjsBa\_4TErhwKJYejc/edit?usp=sharing" %}
 
 [**Template Link**](https://docs.google.com/document/d/1H-VrDuWMlp4r6uCqIF1fx5NQlTjsBa_4TErhwKJYejc/edit?usp=sharing)\*\*\*\*
