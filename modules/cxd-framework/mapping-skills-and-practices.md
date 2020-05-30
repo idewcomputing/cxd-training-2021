@@ -1,6 +1,6 @@
 # Mapping Innovative Practices
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/32072000e96341f6acc99afa81d34a95" %}
 
 We will map the **thinking, doing, and interactions of innovation** to provide perspective on the set of practices we want students to engage that provide a depth and breadth to their approach. We will investigate the **Indiana standards in computer science**, along with the **national framework** and **PBLWorks guidance,** to build confidence and comfort in covering a full spectrum of learning objectives.
 
