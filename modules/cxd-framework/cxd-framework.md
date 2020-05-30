@@ -19,6 +19,8 @@ We will go through the **three phases of a standard project outline** and discus
 
 {% embed url="https://docs.google.com/drawings/d/1Os-cLaA8rwFjAyRBmwrYaS-u-1F5G090OWvThWTjPzA/edit?usp=sharing" %}
 
+{% embed url="https://tophat.com/blog/agile-learning/" %}
+
 {% embed url="https://docs.google.com/drawings/d/1OEoQqVJDBLXdPB3JnsXv3474TWtEQ7uTLy\_Pfs-y18Q/edit?usp=sharing" %}
 
 {% embed url="https://www.lucidchart.com/blog/how-to-create-a-user-story-map" %}
