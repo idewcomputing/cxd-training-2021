@@ -28,7 +28,9 @@ _\*\* Each project may use additional tools, but we will provide guidance for th
 
 If you have little or no experience programming, _no problem_,  follow the quick start video below  where you will 1\) sign up, 2\) make a copy \(_fork_\) of ****[**this program**](https://repl.it/@jimlyst/Hello-World), and 3\) click `run` to see the result. That's it for now. We'll dive deeper later. 
 
-![](../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/419d684555324b908a624442a55d8d2a" %}
+
+
 
 
 
