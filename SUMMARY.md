@@ -46,6 +46,7 @@
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
 * [US K12 CS Framework](https://k12cs.org/wp-content/uploads/2016/09/K%E2%80%9312-CS-Framework-Statements-Grade-Band-View.pdf)
 * [IN Work-Based Learning Manual](https://www.doe.in.gov/sites/default/files/wf-stem/indiana-k-12-work-based-learning-manual-final.pdf)
+* [IN Employability Skills](https://www.doe.in.gov/sites/default/files/wf-stem/grade-eleven-grade-twelve-employability-skills-standards-final.pdf)
 * [PBLWorks \| About PBL](https://www.pblworks.org/what-is-pbl)
 * [PBLWorks \| More Resources](https://my.pblworks.org/)
 

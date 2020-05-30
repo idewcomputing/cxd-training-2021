@@ -22,6 +22,8 @@ We will explore **primary learning objectives** for a computer science course an
 
 {% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}
 
+{% embed url="https://www.doe.in.gov/wf-stem/employability-skills" %}
+
 {% embed url="https://www.pblworks.org/blog/teachable-moment-how-pbl-can-shift-future-education" %}
 
 {% embed url="https://agilemanifesto.org/" %}
