@@ -7,8 +7,8 @@ We will explore **primary learning objectives** for a computer science course an
 ### Prompts for Discussion \(on Slack \#cohort\*-module1-foundations\)
 
 * What do you see as primary roadblocks and opportunities for students to engage CS?
-* What _Agile-like_ manifesto statements would you consider for your classroom to set the tone?
 * How might you have students track project work? What methods have you used in the past?
+* What code tutorial resource might you use? \(e.g. [Codecademy](https://www.codecademy.com/catalog/subject/all), [Kahn Academy](https://www.khanacademy.org/computing), [W3Schools](https://www.w3schools.com/)\)
 
 ### Module Material
 
@@ -34,7 +34,7 @@ We will explore **primary learning objectives** for a computer science course an
 
 {% embed url="https://docs.google.com/drawings/d/14cGou0\_uaHHeEPjNqV4QlyJJXNVczbnMSKB6F3HK7Rk/edit?usp=sharing" %}
 
-**More:** [**CS Standards Spreadsheet**](https://docs.google.com/spreadsheets/d/1NX5hL3benDO9Ruo85qzssl6qO0L2v6Ae2jEJlGQd6JU/edit?usp=sharing)**,** [**Live Teacher Task Board Example**](https://docs.google.com/document/d/1kvLqY_ZJ2wy4s5TOBYH7Otrg_rjJZHmyj2XuLk449zg/edit?usp=sharing)**,** [**Trello**](https://trello.com/)\*\*\*\*
+**More:** [**CS Standards Spreadsheet**](https://docs.google.com/spreadsheets/d/1NX5hL3benDO9Ruo85qzssl6qO0L2v6Ae2jEJlGQd6JU/edit?usp=sharing)**,** [**Live Teacher Task Board Example**](https://docs.google.com/document/d/1kvLqY_ZJ2wy4s5TOBYH7Otrg_rjJZHmyj2XuLk449zg/edit?usp=sharing)**,** [**Trello**](https://trello.com/)**,** [**Codecademy**](https://www.codecademy.com/catalog/subject/all)**,** [**Kahn Academy**](https://www.khanacademy.org/computing)**,** [**W3Schools**](https://www.w3schools.com/)\*\*\*\*
 
 ### [Quick Access to Workshop Google Drive Folder](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)
 
