@@ -1,6 +1,6 @@
 # Programming Warm Up
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/fb88ee9d37ec4167896d0b83951df548" %}
 
 {% hint style="info" %}
 For our programming warm up we will use [CodePen](https://codepen.io), because it is quick and easy to startup in the browser. For our projects, we will use [repl.it](https://repl.it), which is similar but provides many more features.
