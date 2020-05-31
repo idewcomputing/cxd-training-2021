@@ -1,6 +1,6 @@
 # The CxD Project Framework
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/3978d7a77d4d406aa08c0dcb253a390c" %}
 
 We will go through the **three phases of a standard project outline** and discuss the primary activities in completing projects. We will review the important milestones of the **public presentations and deliverables**. We will consider how teams of students may progress through the project, sometimes in a linear series and other times in parallel tracks. Finally, we will see how students may develop **a product feature map** for organizing work and communicating progress.
 
