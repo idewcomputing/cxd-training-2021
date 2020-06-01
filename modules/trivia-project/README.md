@@ -4,5 +4,7 @@ The Trivia Project provides a great entry point for students to learn about web 
 
 {% embed url="https://docs.idew.org/project-trivia-app/" %}
 
+{% embed url="https://galleries.idew.org/" %}
+
 
 
