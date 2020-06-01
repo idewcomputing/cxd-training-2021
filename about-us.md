@@ -32,5 +32,13 @@ Dr. Mathew Palakal ****is a professor of Informatics in the IU School of Informa
 
 {% embed url="https://soic.iupui.edu/people/mathew-palakal/" %}
 
+## Curtis Hagan
+
+**Mentor & Graduate of School of Informatics and Computing**
+
+Recent graduate of IUPUI with a Media Arts and Science degree and indie video game developer, Curtis loves to create and help others unlock their own potential in the media and technology field. He has been mentoring students as President of IUPUI's Game Developers' Group, Camp Instructor at iD Tech Summer Camps, and 3 years in high school classrooms as part of the iDEW program. 
+
+{% embed url="https://www.linkedin.com/in/curtis-h-07a195b4/" %}
+
 
 
