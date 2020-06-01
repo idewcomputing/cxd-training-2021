@@ -8,7 +8,7 @@ We will explore **primary learning objectives** for a computer science course an
 
 * What do you see as primary roadblocks and opportunities for students to engage CS?
 * How might you have students track project work? What methods have you used in the past?
-* What code tutorial resource might you use? \(e.g. [Codecademy](https://www.codecademy.com/catalog/subject/all), [Khan Academy](https://www.khanacademy.org/computing), [W3Schools](https://www.w3schools.com/)\)
+* What code tutorial resource might you use? \(e.g. [Codecademy](https://www.codecademy.com/catalog/subject/all), [Khan Academy](https://www.khanacademy.org/computing), [W3Schools](https://www.w3schools.com/), [Code.org](https://code.org/student/middle-high), [CodeHS](https://codehs.com/course/catalog?ms=false&hs=false&tab=all&state=catalog-all)\)
 
 ### Material
 
