@@ -4,10 +4,6 @@ description: Preparing Innovators in Computing
 
 # Computing by Design 2020
 
-{% hint style="warning" %}
-**Expect frequent updates until the summer workshop starts June 1, 2020.** 
-{% endhint %}
-
 ## Welcome!
 
 {% embed url="https://www.loom.com/share/cead33b93800475ba2d15c46f5d75235" %}
