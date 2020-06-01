@@ -9,7 +9,7 @@ We will map the **thinking, doing, and interactions of innovation** to provide p
 * How might you facilitate a _reflective practice_ with students to intentionally apply the different modes of thinking, doing, and interacting?
 * Which of the practices discussed do you think will be most difficult to facilitate? Any potential ideas to improve outcomes?
 
-### Module Material
+### Material
 
 {% embed url="https://docs.google.com/drawings/d/1E8uK1iAhOoqd8N3eIW\_WqoCoC6PTeuYqZJBICXm05aA/edit?usp=sharing" %}
 

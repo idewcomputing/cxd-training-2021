@@ -10,7 +10,7 @@ We will explore **primary learning objectives** for a computer science course an
 * How might you have students track project work? What methods have you used in the past?
 * What code tutorial resource might you use? \(e.g. [Codecademy](https://www.codecademy.com/catalog/subject/all), [Kahn Academy](https://www.khanacademy.org/computing), [W3Schools](https://www.w3schools.com/)\)
 
-### Module Material
+### Material
 
 {% embed url="https://idew.org" %}
 
