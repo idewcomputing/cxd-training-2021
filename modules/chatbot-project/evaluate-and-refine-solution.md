@@ -1,4 +1,4 @@
 # Evaluate & Refine Solution
 
-![](../../.gitbook/assets/vidcoming.png)
+![](../../.gitbook/assets/vidcoming-welcome.png)
 

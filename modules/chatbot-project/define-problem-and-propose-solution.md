@@ -1,4 +1,4 @@
 # Define Problem & Propose Solution
 
-![](../../.gitbook/assets/vidcoming.png)
+![](../../.gitbook/assets/vidcoming-welcome.png)
 
