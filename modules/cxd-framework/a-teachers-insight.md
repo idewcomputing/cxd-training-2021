@@ -1,3 +1,10 @@
+---
+description: >-
+  The videos below give tips related to the flow of the iDEW projects, injecting
+  supplemental work when needed, forming student teams, and using Google Drive
+  to support your students.
+---
+
 # A Teacher's Insight
 
 {% embed url="https://www.youtube.com/watch?v=Qs4GE-RQQEA" %}
