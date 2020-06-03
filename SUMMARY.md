@@ -23,6 +23,7 @@
   * [Design & Build Solution \(1/2\)](modules/trivia-project/design-and-build-solution-1-2.md)
   * [Design & Build Solution \(2/2\)](modules/trivia-project/design-and-build-solution-2-2.md)
   * [Evaluate & Refine Solution](modules/trivia-project/evaluate-and-refine-solution.md)
+  * [A Teacher's Insight](modules/trivia-project/a-teachers-insight.md)
 * [Chatbot Project](modules/chatbot-project/README.md)
   * [Define Problem & Propose Solution](modules/chatbot-project/define-problem-and-propose-solution.md)
   * [Design & Build Solution \(1/2\)](modules/chatbot-project/design-and-build-solution-1-2.md)
