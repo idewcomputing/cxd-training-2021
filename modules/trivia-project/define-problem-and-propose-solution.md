@@ -2,6 +2,11 @@
 
 {% embed url="https://www.loom.com/share/018b81c9c0af4311b1038680f3cf364f" %}
 
+### Prompts for Discussion \(on Slack \#cohort\*-module2-trivia\)
+
+* What do you foresee as major hurdles in facilitating this phase of the project in the classroom?
+* What are the biggest opportunities to positively impact students in this phase of the project?
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-trivia-app/project-instructions/1-define-problem-and-value-proposition" %}
