@@ -2,7 +2,7 @@
 
 {% embed url="https://www.loom.com/share/41b82ba3460e4b2cbc600050adb4d7b9" %}
 
-### Prompts for Discussion \(on Slack \#cohort\*-module2-trivia\)
+### Prompt for Discussion \(on Slack \#cohort\*-module2-trivia\)
 
 * How might you manage team member responsibilities with the design and build portion? \(prototyping, evaluation, question bank content, trivia code,  etc.\)
 

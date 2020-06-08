@@ -2,6 +2,10 @@
 
 ![](../../.gitbook/assets/vidcoming-welcome.png)
 
+### Prompt for Discussion \(on Slack \#cohort\*-module2-trivia\)
+
+* Same prompt from previous section: How might you manage team member responsibilities with the design and build portion? \(prototyping, evaluation, question bank content, trivia code,  etc.\)
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-trivia-app/project-instructions/2-design-and-build-solution" %}
