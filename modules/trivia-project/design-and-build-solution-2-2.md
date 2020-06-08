@@ -1,6 +1,6 @@
 # Design & Build Solution \(2/2\)
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/8cb2004c93fd4f0cb7e8a4adcc7f9678" %}
 
 ### Prompt for Discussion \(on Slack \#cohort\*-module2-trivia\)
 
