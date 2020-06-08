@@ -12,6 +12,8 @@
 
 {% embed url="https://docs.google.com/drawings/d/1yBe1CgRKC4U7-5x5beEJHE\_xIoFPOlD2OzOHwWDWaDs/edit?usp=sharing" %}
 
+{% embed url="https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code" %}
+
 {% embed url="https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing" %}
 
 
