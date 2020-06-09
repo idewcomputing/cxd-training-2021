@@ -13,6 +13,10 @@
 
 {% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
+### Trivia Template Build Walkthrough
+
+{% embed url="https://www.loom.com/share/26e7cc5ea99a4ca38ea174d26ebd9990" %}
+
 ### [Quick Access to Workshop Google Drive Folder](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)
 
 {% embed url="https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing" %}
