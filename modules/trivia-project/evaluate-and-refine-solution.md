@@ -2,6 +2,10 @@
 
 ![](../../.gitbook/assets/vidcoming-welcome.png)
 
+### Prompt for Discussion \(on Slack \#cohort\*-module2-trivia\)
+
+* How might you ensure that students see the value in, and engage, an _evaluation and refinements_ phase of a project? 
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-trivia-app/project-instructions/3-evaluate-and-refine-solution" %}
