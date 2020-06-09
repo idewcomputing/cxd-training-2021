@@ -1,6 +1,6 @@
 # Evaluate & Refine Solution
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/2851923841854280b7548223c0d17271" %}
 
 ### Prompt for Discussion \(on Slack \#cohort\*-module2-trivia\)
 
