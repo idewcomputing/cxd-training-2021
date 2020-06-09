@@ -29,6 +29,7 @@
   * [Design & Build Solution \(1/2\)](modules/chatbot-project/design-and-build-solution-1-2.md)
   * [Design & Build Solution \(2/2\)](modules/chatbot-project/design-and-build-solution-2-2.md)
   * [Evaluate & Refine Solution](modules/chatbot-project/evaluate-and-refine-solution.md)
+  * [A Teacher's Insight](modules/chatbot-project/a-teachers-insight.md)
 * [IoT Project](modules/iot-project/README.md)
   * [Define Problem & Propose Solution](modules/iot-project/define-problem-and-propose-solution.md)
   * [Design & Build Solution \(1/2\)](modules/iot-project/design-and-build-solution-1-2.md)
