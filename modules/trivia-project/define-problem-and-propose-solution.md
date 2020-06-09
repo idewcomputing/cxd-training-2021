@@ -17,6 +17,10 @@
 
 {% embed url="https://www.loom.com/share/26e7cc5ea99a4ca38ea174d26ebd9990" %}
 
+{% embed url="https://www.loom.com/share/3dbe10f3f5964628a035524576821625" %}
+
+
+
 ### [Quick Access to Workshop Google Drive Folder](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)
 
 {% embed url="https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing" %}
