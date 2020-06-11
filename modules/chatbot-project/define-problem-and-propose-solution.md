@@ -2,6 +2,10 @@
 
 {% embed url="https://www.loom.com/share/e9f72237a78443fc8d43a54cfd3d966f" %}
 
+### Prompt for Discussion \(on Slack \#cohort\*-module3-chatbot\)
+
+* What social topics might be engaged alongside the chatbot project, and how might you draw students into a topic? For example, "the social implications of advancing AI".
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-chatbot/project-instructions/1-discover-and-define-problem" %}

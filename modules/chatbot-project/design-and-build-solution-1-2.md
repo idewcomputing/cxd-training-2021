@@ -2,6 +2,10 @@
 
 {% embed url="https://www.loom.com/share/df4e1560355c439e9ebecd017c21d4cd" %}
 
+### Prompt for Discussion \(on Slack \#cohort\*-module3-chatbot\)
+
+* What unique challenges do you foresee with the chatbot project that differs from the trivia project?
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-chatbot/project-instructions/2-design-and-build-solution" %}
