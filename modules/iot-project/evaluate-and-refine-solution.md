@@ -1,6 +1,6 @@
 # Evaluate & Refine Solution
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/77966aaf48c243109e89668bf0cec84d" %}
 
 ### Material
 
