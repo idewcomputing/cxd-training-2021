@@ -6,6 +6,8 @@ The IoT project brings computing into the physical world where students imagine 
 
 {% embed url="https://galleries.idew.org/" %}
 
+{% embed url="https://www.sparkfun.com/products/14684" %}
+
 {% embed url="https://www.particle.io/" %}
 
 
