@@ -1,6 +1,6 @@
 # Define Problem & Propose Solution
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/f732a62c5c6b43e0b7bb69e34cbf20bd" %}
 
 ### Material
 
