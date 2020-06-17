@@ -1,6 +1,6 @@
 # Design & Build Solution \(1/2\)
 
-![](../../.gitbook/assets/vidcoming-welcome.png)
+{% embed url="https://www.loom.com/share/f921556917a54032ac43507042d90e0d" %}
 
 ### Material
 
