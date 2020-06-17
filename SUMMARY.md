@@ -35,6 +35,7 @@
   * [Design & Build Solution \(1/2\)](modules/iot-project/design-and-build-solution-1-2.md)
   * [Design & Build Solution \(2/2\)](modules/iot-project/design-and-build-solution-2-2.md)
   * [Evaluate & Refine Solution](modules/iot-project/evaluate-and-refine-solution.md)
+  * [A Teacher's Insight](modules/iot-project/a-teachers-insight.md)
 
 ## Your Project Plan <a id="instructional-plan"></a>
 
