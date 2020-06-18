@@ -1,6 +1,6 @@
 # Define Problem & Propose Solution
 
-{% embed url="https://www.loom.com/share/f732a62c5c6b43e0b7bb69e34cbf20bd" %}
+{% embed url="https://www.loom.com/share/d496c34bbd5b48a6af0a2a61ff057fa5" caption="Replacement Video" %}
 
 ### Material
 
