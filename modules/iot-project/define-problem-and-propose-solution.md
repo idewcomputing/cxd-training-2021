@@ -2,6 +2,10 @@
 
 {% embed url="https://www.loom.com/share/d496c34bbd5b48a6af0a2a61ff057fa5" caption="Replacement Video" %}
 
+### Prompt for Discussion \(on Slack \#cohort\*-module4-iot\)
+
+* What process might you use to help teams select an appropriate topic and problem for a project?
+
 ### Material
 
 {% embed url="https://docs.idew.org/project-internet-of-things/project-instructions/1-discover-and-define-problem" %}

@@ -44,6 +44,8 @@
 
 ## Resources
 
+---
+
 * [Computing by Design Docs](https://docs.idew.org/the-cxd-framework/)
 * [Workshop Google Drive Folder](https://drive.google.com/drive/folders/1Nrld3kQRgsxm2J173ANdN0lNNCrbPhh4?usp=sharing)
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
