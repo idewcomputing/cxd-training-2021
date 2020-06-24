@@ -2,7 +2,7 @@
 
 ## Sharing Your Plan
 
-By sharing your semester plan for teaching a CS course with other workshop participants in Slack you can get valuable feedback -- and provide feedback as well. 
+By sharing your semester plan for teaching a CS course with other workshop participants in Slack you can get valuable feedback -- and provide others feedback as well. 
 
 ### A Few Notes:
 
