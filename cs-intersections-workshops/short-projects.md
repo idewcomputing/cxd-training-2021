@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-Choose a one \(or more\) of six workshops that introduce you to short projects of approximately 10-15 student hours — comprising six activities each. Each workshop will be conducted over the span of a week. This approach will serve 1\) CS teachers that are already skilled in one area of CS to supplement their PBL/CS proficiencies, or 2\) non-CS teachers that want to inject a small project into their class.
+Choose one \(or more\) of six workshops that introduce you to short projects of approximately 10-15 student hours — comprising six activities each. Each workshop will be conducted over the span of a week. This approach will serve 1\) CS teachers that are already skilled in one area of CS to supplement their PBL/CS proficiencies, or 2\) non-CS teachers that want to inject a small project into their class.
 
 | Workshop | Description |
 | :--- | :--- |
