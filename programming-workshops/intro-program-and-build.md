@@ -8,7 +8,7 @@ Intended for teachers planning a semester or full-year CS course in grades 6-12,
 
 The online workshops will be largely conducted asynchronously with two live meetings scheduled.  Material and videos will be available after the workshops for self-guided learning.
 
-| Workshop | Description |
+|  |  |
 | :--- | :--- |
 | **Trivia Web App** | Build a trivia game using HTML/CSS/JavaScript with a question and answers database managed in a spreadsheet. [**Learn more &gt;**](trivia.md)\*\*\*\* |
 | **Wheeled Robot** | Assemble and program a wheeled robot that can respond to the environment through various sensors. [**Learn more &gt;**](robot.md)\*\*\*\* |
