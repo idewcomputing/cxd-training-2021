@@ -10,7 +10,7 @@
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
 * [Chatbot Web App](programming-workshops/chatbot.md)
-* [IoT - Internet of Things](programming-workshops/iot.md)
+* [Internet of Things \(IoT\)](programming-workshops/iot.md)
 * [Data Visualization](programming-workshops/dataviz.md)
 
 ## Innovation Workshop <a id="cxd-innovation-workshop"></a>
