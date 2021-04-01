@@ -10,6 +10,10 @@ description: Preparing Innovators in Computing
 
 **Welcome to the Computing by Design \(CxD\) 2021 Summer Workshop Series!** This year we are offering several workshops allowing you to customize your path that aligns with your needs in teaching computer science. 
 
+## Teacher Stipends 💲 
+
+Coming soon...
+
 ## Recommended Pathways ⭐️
 
 Coming soon...

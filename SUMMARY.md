@@ -5,24 +5,25 @@
 
 ## Programming Workshops
 
+* [Intro: Program and Build](programming-workshops/intro-program-and-build.md)
 * [Trivia Web App](programming-workshops/trivia.md)
-* [Chatbot Web App](programming-workshops/chatbot.md)
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
+* [Chatbot Web App](programming-workshops/chatbot.md)
 * [IoT - Internet of Things](programming-workshops/iot.md)
 * [Data Visualization](programming-workshops/dataviz.md)
 
-## CxD Innovation Workshop
+## Innovation Workshop <a id="cxd-innovation-workshop"></a>
 
-* [A Full CS Experience](cxd-innovation-workshop/full-experience.md)
+* [Intro: The Full CS Experience](cxd-innovation-workshop/full-experience.md)
 
 ## PBLWorks 101 Workshop
 
-* [Managing CS Projects in Class](pblworks-101-workshop/classroom.md)
+* [Intro: Managing CS Projects in Class](pblworks-101-workshop/classroom.md)
 
 ## CS Intersections Workshops
 
-* [Short CS Projects for Any Class](cs-intersections-workshops/short-projects.md)
+* [Intro: Short CS Projects for Any Class](cs-intersections-workshops/short-projects.md)
 
 ## Resources
 
