@@ -55,8 +55,8 @@ description: Preparing Innovators in Computing
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="cs-intersections-workshops/short-projects.md"><b>Six Computer Science Intersections Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
-        <p>Choose from six workshops to prepare a short CS project in any course.</p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="cs-short-workshops/short-projects.md"><b>Six Cross-Discipline Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Choose from six short projects that blend computer science into any course.</p>
       </td>
       <td style="text-align:left">
         <p><b>One Week</b>
