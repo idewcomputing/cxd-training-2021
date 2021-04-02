@@ -1,4 +1,4 @@
-# Managing CS Projects in Class
+# ✻ Managing CS Projects in Class
 
 ### Focus on the classroom management practices and assessment strategies for project-based learning.
 

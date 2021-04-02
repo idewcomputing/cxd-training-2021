@@ -1,4 +1,4 @@
-# Choosing a Programming Workshop
+# ✻ Choosing a Programming WS
 
 ### Choose from six workshops specifically focused on the tasks of programming and building.
 

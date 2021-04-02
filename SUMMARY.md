@@ -5,7 +5,7 @@
 
 ## Programming Workshops
 
-* [Choosing a Programming Workshop](programming-workshops/choose-programming-workshop.md)
+* [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
 * [Trivia Web App](programming-workshops/trivia.md)
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
@@ -15,15 +15,15 @@
 
 ## ★★ Innovation Workshop ★★ <a id="cxd-innovation-workshop"></a>
 
-* [Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
+* [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 
 ## PBLWorks 101 Workshop
 
-* [Managing CS Projects in Class](pblworks-101-workshop/classroom.md)
+* [✻ Managing CS Projects in Class](pblworks-101-workshop/classroom.md)
 
 ## CS Intersections Workshops
 
-* [Use Short CS Projects for Any Class](cs-intersections-workshops/short-projects.md)
+* [✻ Short CS Projects in Any Class](cs-intersections-workshops/short-projects.md)
 
 ## Resources
 
