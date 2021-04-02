@@ -14,7 +14,7 @@ description: Preparing Innovators in Computing
   <thead>
     <tr>
       <th style="text-align:left">Workshops</th>
-      <th style="text-align:left">Dates</th>
+      <th style="text-align:left">Length &amp; Dates</th>
     </tr>
   </thead>
   <tbody>
