@@ -1,4 +1,4 @@
-# Intro: Short CS Projects for Any Class
+# Use Short CS Projects for Any Class
 
 ### Whether you teach math, language arts, history, or computer science – prepare for a short computer science project in the classroom that can intersect disciplines and supplement your course.
 

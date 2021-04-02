@@ -1,4 +1,4 @@
-# Intro: The Full CS Experience
+# Prepare a Full CS Experience
 
 ### Prepare for a full-semester PBL experience in computer science engaging the breadth of work in building a product using design, data, and programming.
 
