@@ -10,7 +10,7 @@ description: Preparing Innovators in Computing
 
 **Welcome to the Computing by Design \(CxD\) 2021 Summer Workshop Series!** This year we are offering several online workshops in a flexible format, allowing you to customize a path that aligns with your needs in teaching computer science. 
 
-**Enjoy your summer activities while preparing.** All workshops are offered online and designed to take **approximately 2 hours each day of the workshop**, providing you flexibility in your summer schedule.    
+**Enjoy your summer activities while preparing for computer science.** All workshops are offered online and designed to take **approximately 2 hours each day of the workshop**, providing you flexibility in your summer schedule.    
 _\*\* Exception: The PBLWorks workshop is 3 full days online. \*\*_
 
 <table>
