@@ -65,7 +65,7 @@ description: Preparing Innovators in Computing
   </tbody>
 </table>
 
-## Recommended Pathways 👈 
+### Recommended Pathways 👈 
 
 We understand that your situation may be very unique. Here are a few recommended pathways to consider, but you can customize your choices further.
 
