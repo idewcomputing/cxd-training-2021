@@ -13,7 +13,7 @@
 * [Internet of Things \(IoT\)](programming-workshops/iot.md)
 * [Data Visualization](programming-workshops/dataviz.md)
 
-## ★★ Innovation Workshop ★★ <a id="cxd-innovation-workshop"></a>
+## ★ Innovation Workshop ★ <a id="cxd-innovation-workshop"></a>
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 
