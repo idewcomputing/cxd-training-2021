@@ -23,7 +23,7 @@ description: Preparing Innovators in Computing
     <tr>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;<a href="programming-workshops/choose-programming-workshop.md"><b>Six Programming Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
-        <p>Choose from Trivia, Robot, Video Game, Chatbot, IoT, and Data Viz</p>
+        <p>Choose from Trivia, Robot, Video Game, Chatbot, IoT, and Data Viz programming.</p>
       </td>
       <td style="text-align:left">
         <p><b>One Week</b>
