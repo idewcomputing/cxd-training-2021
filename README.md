@@ -56,7 +56,8 @@ description: Preparing Innovators in Computing
     <tr>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;<a href="cs-short-workshops/short-projects.md"><b>Six Cross-Discipline Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
-        <p>Choose from six short projects that blend computer science into any course.</p>
+        <p>Choose from six short projects that blend computer science into other
+          disciplines.</p>
       </td>
       <td style="text-align:left">
         <p><b>One Week</b>
