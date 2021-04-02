@@ -2,11 +2,11 @@
 
 ### Choose from six workshops specifically focused on the tasks of programming and building.
 
+Planning to teach a semester or full-year CS course in grades 6-12, these six workshops will run concurrently for one week, June 7 -11. **If you intend to teach a full year course, we recommend you choose two technology workshops.** 
+
+The online workshops will be largely conducted asynchronously with two live meetings scheduled.  Material and videos will be available after the workshops for further self-guided review.
+
 ![](../.gitbook/assets/vidcoming.png)
-
-Intended for teachers planning a semester or full-year CS course in grades 6-12, these six workshops will run concurrently for one week at the beginning of June in 2021. **If you intend to teach a full year course, we recommend you choose two technology workshops.** 
-
-The online workshops will be largely conducted asynchronously with two live meetings scheduled.  Material and videos will be available after the workshops for self-guided learning.
 
 ## Choose From Six Programming Workshops
 
