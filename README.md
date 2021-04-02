@@ -17,7 +17,7 @@ _\*\* Exception: The PBLWorks workshop is 3 full days online. \*\*_
   <thead>
     <tr>
       <th style="text-align:left">Workshops</th>
-      <th style="text-align:left">Length &amp; Dates</th>
+      <th style="text-align:left">Length/Dates</th>
     </tr>
   </thead>
   <tbody>
