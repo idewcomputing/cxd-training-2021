@@ -34,7 +34,7 @@ _\*\* Exception: The PBLWorks workshop is 3 full days online. \*\*_
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="cxd-innovation-workshop/full-experience.md"><b>&#x2605;&#x2605; Innovation Workshop &#x2605;&#x2605;</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="cxd-innovation-workshop/full-experience.md"><b>&#x2605; Innovation Workshop &#x2605;</b></a>&lt;b&gt;&lt;/b&gt;</p>
         <p>Prepare for a full computer science experience with projects.</p>
       </td>
       <td style="text-align:left">
