@@ -8,56 +8,66 @@ description: Preparing Innovators in Computing
 
 ![](.gitbook/assets/vidcoming.png)
 
-**Welcome to the Computing by Design \(CxD\) 2021 Summer Workshop Series!** This year we are offering several workshops allowing you to customize your path that aligns with your needs in teaching computer science. 
-
-**Flexible Scheduling:** All workshops are offered online and designed to take approximately 1 to 2 hours each day of the workshop, providing you flexibility in your summer schedule.
-
-## Recommended Pathways⭐
-
-We understand that your situation may be very unique. Here are a few recommended pathways to consider, but you can customize your choices further.
+**Welcome to the Computing by Design \(CxD\) 2021 Summer Workshop Series!** This year we are offering several online workshops in a flexible format, allowing you to customize a path that aligns with your needs in teaching computer science. Most workshops are offered online and designed to take **approximately 2 hours each day of the workshop**, providing you flexibility in your summer schedule.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">New(ish) Computer Science
-        <br />Teacher</th>
-      <th style="text-align:left">
-        <p>Experienced CS/Programming</p>
-        <p>Teacher</p>
-      </th>
-      <th style="text-align:left">
-        <p>Not a Computer Science</p>
-        <p>Teacher</p>
-      </th>
+      <th style="text-align:left">Workshops</th>
+      <th style="text-align:left">Dates</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>Week 1</b>
-        </p>
-        <p>Trivia Web App</p>
-        <p>Wheeled Robot
-          <br /><b>Weeks 2 and 3</b>
-        </p>
-        <p>Innovation Workshop</p>
-        <p>Week 4</p>
-        <p></p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="programming-workshops/choose-programming-workshop.md"><b>Six Programming Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Choose from Trivia, Robot, Video Game, Chatbot, IoT, and Data Viz</p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>One Week</b>
+        </p>
+        <p>June 7-11</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;<a href="cxd-innovation-workshop/full-experience.md"><b>&#x2605;&#x2605; Innovation Workshop &#x2605;&#x2605;</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Prepare for a full computer science experience with projects.</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Two Weeks</b>
+        </p>
+        <p>June 14 - 25</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;<a href="pblworks-101-workshop/classroom.md"><b>PBLWorks PBL 101 Workshop</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>All about planning classroom management and assessments for projects.</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Three Full Days</b>
+        </p>
+        <p>June 28 - 30</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;<a href="cs-intersections-workshops/short-projects.md"><b>Six Computer Science Intersections Workshops</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Choose from six workshops to prepare a short CS project in any course.</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>One Week</b>
+        </p>
+        <p>July 12 - 16</p>
+      </td>
     </tr>
   </tbody>
 </table>
 
-Coming soon...
+## Recommended Pathways 👈 
 
-## Schedule🕐 
+We understand that your situation may be very unique. Here are a few recommended pathways to consider, but you can customize your choices further.
 
 Coming soon...
 
