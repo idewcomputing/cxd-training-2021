@@ -6,6 +6,8 @@
 ## Programming Workshops
 
 * [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
+* [✻ Schedule](programming-workshops/schedule.md)
+* [✻ Slack Workspace](https://slack.com)
 * [Trivia Web App](programming-workshops/trivia.md)
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
@@ -16,7 +18,8 @@
 ## ★ Innovation Workshop ★ <a id="cxd-innovation-workshop"></a>
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
-* [Schedule](cxd-innovation-workshop/schedule.md)
+* [✻ Schedule](cxd-innovation-workshop/schedule.md)
+* [✻ Slack Workspace](https://slack.com)
 * [Module 1](cxd-innovation-workshop/module-1.md)
 * [Module 2](cxd-innovation-workshop/module-2.md)
 * [Module 3](cxd-innovation-workshop/module-3.md)
@@ -28,10 +31,17 @@
 ## Cross-Discipline Workshops <a id="cs-short-workshops"></a>
 
 * [✻ Short Projects for Any Class](cs-short-workshops/short-projects.md)
+* [✻ Schedule](cs-short-workshops/schedule.md)
+* [✻ Slack Workspace](https://slack.com)
+* [Define a Problem and Value Proposition](cs-short-workshops/define-a-problem-and-value-proposition.md)
+* [Design and Build a Solution](cs-short-workshops/design-and-build-a-solution.md)
+* [Evaluate and Refine a Solution](cs-short-workshops/evaluate-and-refine-a-solution.md)
+* [CS for Math & Science: Charting Data](cs-short-workshops/cs-for-math-and-science-charting-data.md)
+* [CS for Language Arts: Natural Language Processing](cs-short-workshops/cs-for-language-arts-natural-language-processing.md)
+* [Build a Flip Card App Study Guide for Any Course](cs-short-workshops/build-a-flip-card-app-study-guide-for-any-course.md)
 
 ## Resources
 
-* [Slack Workspace](https://cxd2020.slack.com)
 * [Computing by Design Docs](https://docs.idew.org/the-cxd-framework/)
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
 * [US K12 CS Framework](https://k12cs.org/wp-content/uploads/2016/09/K%E2%80%9312-CS-Framework-Statements-Grade-Band-View.pdf)
