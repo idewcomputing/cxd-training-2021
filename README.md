@@ -12,6 +12,8 @@ description: Preparing Innovators in Computing
 
 \*\*\*\*
 
+### Workshops Schedule Overview
+
 <table>
   <thead>
     <tr>
