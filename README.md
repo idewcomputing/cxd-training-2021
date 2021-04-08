@@ -10,8 +10,6 @@ description: Preparing Innovators in Computing
 
 ![](.gitbook/assets/vidcoming.png)
 
-\*\*\*\*
-
 ### Workshops Schedule Overview
 
 <table>
