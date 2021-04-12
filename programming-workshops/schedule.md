@@ -2,7 +2,7 @@
 
 ## Live Zoom Sessions
 
-For each workshop there are two scheduled zoom sessions.
+For each workshop there are two scheduled zoom sessions. A zoom link will be added as the workshops approach.
 
 ### Session 1: Welcome and Getting Started
 
