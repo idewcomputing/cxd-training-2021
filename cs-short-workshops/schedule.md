@@ -1,2 +1,124 @@
 # ✻ Schedule
 
+## Live Zoom Sessions
+
+For each workshop there are two scheduled zoom sessions. A zoom link will be added as the workshops approach.
+
+### Session 1: Welcome and Getting Started
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Workshop</th>
+      <th style="text-align:left">Day/Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Define a Problem and Value Proposition Workshop<br />Design and Build a Solution Workshop</b>
+        </p>
+        <p><b>Evaluate and Refine a Solution Workshop</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Monday June 7</b>
+        </p>
+        <p><b>1:00 pm - 2:00 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>CS for Math &amp; Science: Charting Data</b>
+        </p>
+        <p><b>CS for Language Arts: Natural Language Processing</b>
+        </p>
+        <p><b>Build a Flip Card App: Study Guide for Any Course</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Monday June 7</b>
+        </p>
+        <p><b>2:30 pm - 3:30 pm</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Session 2: Sharing Progress and Help
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Workshop</th>
+      <th style="text-align:left">Day/Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Define a Problem and Value Proposition Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Wednesday June 9</b>
+        </p>
+        <p><b>11:30 pm - 12:30 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Design and Build a Solution Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Wednesday June 9</b>
+        </p>
+        <p><b>1:00 pm - 2:00 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Evaluate and Refine a Solution Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Wednesday June 9</b>
+        </p>
+        <p><b>2:30 pm - 3:30 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CS for Math &amp; Science: Charting Data</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Thursday June 10</b>
+        </p>
+        <p><b>11:30 pm - 12:30 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CS for Language Arts: Natural Language Processing</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Thursday June 10</b>
+        </p>
+        <p><b>1:00 pm - 2:00 pm</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Build a Flip Card App: Study Guide for Any Course</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Thursday June 10</b>
+        </p>
+        <p><b>2:30 pm - 3:30 pm</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
