@@ -1,5 +1,9 @@
 # ✻ Schedule
 
+## Workshop Deliverable
+
+Each **programming workshop** has a **final deliverable due by June 14**. 
+
 ## Live Zoom Sessions
 
 For each workshop there are two scheduled zoom sessions. A zoom link will be added as the workshops approach.

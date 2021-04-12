@@ -1,5 +1,9 @@
 # ✻ Schedule
 
+## Workshop Final Deliverable
+
+Each **workshop cohort** has a **final deliverable due by June 28**. 
+
 ## Live Zoom Sessions
 
 ### Cohort 1

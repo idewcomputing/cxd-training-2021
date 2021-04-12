@@ -1,5 +1,9 @@
 # ✻ Schedule
 
+## Workshop Deliverable
+
+Each **cross-discipline workshop** has a **final deliverable due by July 19**. 
+
 ## Live Zoom Sessions
 
 For each workshop there are two scheduled zoom sessions. A zoom link will be added as the workshops approach.
@@ -22,7 +26,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Monday June 7</b>
+        <p><b>Monday July 12</b>
         </p>
         <p><b>1:00 pm - 2:00 pm</b>
         </p>
@@ -38,7 +42,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Monday June 7</b>
+        <p><b>Monday July 12</b>
         </p>
         <p><b>2:30 pm - 3:30 pm</b>
         </p>
@@ -61,7 +65,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>Define a Problem and Value Proposition Workshop</b>
       </td>
       <td style="text-align:left">
-        <p><b>Wednesday June 9</b>
+        <p><b>Wednesday July 14</b>
         </p>
         <p><b>11:30 pm - 12:30 pm</b>
         </p>
@@ -71,7 +75,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>Design and Build a Solution Workshop</b>
       </td>
       <td style="text-align:left">
-        <p><b>Wednesday June 9</b>
+        <p><b>Wednesday July 14</b>
         </p>
         <p><b>1:00 pm - 2:00 pm</b>
         </p>
@@ -81,7 +85,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>Evaluate and Refine a Solution Workshop</b>
       </td>
       <td style="text-align:left">
-        <p><b>Wednesday June 9</b>
+        <p><b>Wednesday July 14</b>
         </p>
         <p><b>2:30 pm - 3:30 pm</b>
         </p>
@@ -91,7 +95,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>CS for Math &amp; Science: Charting Data</b>
       </td>
       <td style="text-align:left">
-        <p><b>Thursday June 10</b>
+        <p><b>Thursday July 15</b>
         </p>
         <p><b>11:30 pm - 12:30 pm</b>
         </p>
@@ -101,7 +105,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>CS for Language Arts: Natural Language Processing</b>
       </td>
       <td style="text-align:left">
-        <p><b>Thursday June 10</b>
+        <p><b>Thursday July 15</b>
         </p>
         <p><b>1:00 pm - 2:00 pm</b>
         </p>
@@ -111,7 +115,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left"><b>Build a Flip Card App: Study Guide for Any Course</b>
       </td>
       <td style="text-align:left">
-        <p><b>Thursday June 10</b>
+        <p><b>Thursday July 15</b>
         </p>
         <p><b>2:30 pm - 3:30 pm</b>
         </p>
@@ -119,6 +123,4 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
     </tr>
   </tbody>
 </table>
-
-
 
