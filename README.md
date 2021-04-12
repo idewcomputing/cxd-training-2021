@@ -41,7 +41,7 @@ description: Preparing Innovators in Computing
       <td style="text-align:left">
         <p><b>Two Weeks</b>
         </p>
-        <p>June 14 - 25</p>
+        <p>June 14 - 23</p>
       </td>
     </tr>
     <tr>
