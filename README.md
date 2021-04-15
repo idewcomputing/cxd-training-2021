@@ -6,7 +6,7 @@ description: Preparing Innovators in Computing
 
 ![Preparing Innovators in Computing](.gitbook/assets/orgbanner.png)
 
-## Welcome to Our 2021 Online Summer Workshop Series! 👋 
+## Welcome to Our 2021 Online Summer Workshop Series!  
 
 **Enjoy your summer activities while preparing for computer science.** All workshops are offered online and designed to take approximately 2 hours each day of the workshop \(\*\), providing you flexibility in your summer schedule and allowing you to customize a path that aligns with your needs in teaching computer science.  _\* Exception: The PBLWorks workshop is 3 full days online._
 
