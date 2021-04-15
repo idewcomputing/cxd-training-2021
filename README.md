@@ -4,7 +4,7 @@ description: Preparing Innovators in Computing
 
 # Computing by Design 2021
 
-![](.gitbook/assets/orgbanner.png)
+![Preparing Innovators in Computing](.gitbook/assets/orgbanner.png)
 
 ## Welcome to Our 2021 Online Summer Workshop Series! 👋 
 
