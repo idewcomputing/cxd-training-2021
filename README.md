@@ -16,8 +16,6 @@ We understand that your situation may be very unique. Here are a few recommended
 
 ![](.gitbook/assets/pathways.png)
 
-![](.gitbook/assets/vidcoming.png)
-
 ### Workshops Schedule Overview
 
 <table>
@@ -75,6 +73,8 @@ We understand that your situation may be very unique. Here are a few recommended
     </tr>
   </tbody>
 </table>
+
+![](.gitbook/assets/vidcoming.png)
 
 ## Teacher Stipends💲 
 
