@@ -10,9 +10,7 @@ description: Preparing Innovators in Computing
 
 **Enjoy your summer activities while preparing for computer science.** All workshops are offered online and designed to take **approximately 2 hours each day of the workshop \(\*\)**, providing you flexibility in your summer schedule and allowing you to customize a path that aligns with your needs in teaching computer science.  _\* Exception: The PBLWorks workshop is 3 full days online._
 
-### Recommended Pathways 👈 
-
-We understand that your situation may be very unique. Here are a few recommended pathways to consider, but you can customize your choices to fit your needs.
+### Recommended Workshop Pathways 👈 
 
 ![](.gitbook/assets/pathways.png)
 
