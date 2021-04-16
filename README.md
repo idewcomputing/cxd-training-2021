@@ -10,6 +10,8 @@ description: Preparing Innovators in Computing
 
 ### Recommended Workshop Pathways 👇 
 
+While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start.
+
 ![](.gitbook/assets/pathways2.png)
 
 ![Preparing Innovators in Computing](.gitbook/assets/orgbanner.png)
