@@ -10,7 +10,7 @@ description: Preparing Innovators in Computing
 
 ### Recommended Workshop Pathways 👇 
 
-![](.gitbook/assets/pathways.png)
+![](.gitbook/assets/pathways2.png)
 
 ![Preparing Innovators in Computing](.gitbook/assets/orgbanner.png)
 
