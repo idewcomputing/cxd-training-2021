@@ -3,7 +3,7 @@
 * [Computing by Design 2021](README.md)
 * [About Us](about-us.md)
 
-## Programming Workshops
+## 🔵 Programming Workshops
 
 * [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
 * [✻ Schedule](programming-workshops/schedule.md)
@@ -15,7 +15,7 @@
 * [Internet of Things \(IoT\)](programming-workshops/iot.md)
 * [Data Visualization](programming-workshops/dataviz.md)
 
-## ★ Innovation Workshop ★ <a id="cxd-innovation-workshop"></a>
+## 🔵 Innovation Workshop <a id="cxd-innovation-workshop"></a>
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 * [✻ Schedule](cxd-innovation-workshop/schedule.md)
@@ -24,11 +24,11 @@
 * [Module 2](cxd-innovation-workshop/module-2.md)
 * [Module 3](cxd-innovation-workshop/module-3.md)
 
-## PBLWorks 101 Workshop
+## 🔵 PBLWorks 101 Workshop
 
 * [✻ Managing CS Projects in Class](pblworks-101-workshop/classroom.md)
 
-## Cross-Discipline Workshops <a id="cs-short-workshops"></a>
+## 🔵 Cross-Discipline Workshops <a id="cs-short-workshops"></a>
 
 * [✻ Short Projects for Any Class](cs-short-workshops/short-projects.md)
 * [✻ Schedule](cs-short-workshops/schedule.md)
@@ -40,7 +40,7 @@
 * [CS for Language Arts: Natural Language Processing](cs-short-workshops/cs-for-language-arts-natural-language-processing.md)
 * [Build a Flip Card App Study Guide for Any Course](cs-short-workshops/build-a-flip-card-app-study-guide-for-any-course.md)
 
-## Resources
+## 🔵 Resources
 
 * [Computing by Design Docs](https://docs.idew.org/the-cxd-framework/)
 * [IN CS Standards K-12](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)
