@@ -78,9 +78,25 @@ While you can customize which workshops you take, here are a few recommendations
 
 ![](.gitbook/assets/vidcoming.png)
 
-## Teacher Stipends💲 
+### **Stand Alone Computer Science Activities for K-12** 
 
-Coming soon...
+A repository of computer science activities with an emphasis on K-8 coming soon! The first 20 activities will be released by July 2021 with regular additions made through summer 2022.  A link to the repository coming soon. 
+
+### Teacher Stipends💲 
+
+**Teachers will be provided stipends on the following schedule each summer.**
+
+* $250 dollars per participation in a one-week workshop \(items 1, 3 and 5\)
+* $500 dollars per participation in the two-week CxD Innovation Workshop \(item 2\)
+
+The maximum total stipend in a summer workshop series will not exceed $1000 per teachers. In order to receive a stipend for the Classroom Management and Project Assessments Workshop \(PBLWorks\) the teacher must also participate in at least one other workshop to ensure sufficient coverage of computer science content. 
+
+**The following are required to receive the stipend for each workshop.**
+
+* Participation in all live online sessions for the given workshop
+* Participation in the online Slack community
+* Complete associated surveys
+* Submission of a final deliverable that demonstrates competency in the workshop content
 
 
 
