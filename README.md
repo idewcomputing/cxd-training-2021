@@ -12,9 +12,9 @@ description: Preparing Innovators in Computing
 
 While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start.
 
-![](.gitbook/assets/pathways2.png)
+![Click image to enlarge.](.gitbook/assets/pathways2.png)
 
-![Preparing Innovators in Computing](.gitbook/assets/orgbanner.png)
+![](.gitbook/assets/orgbanner.png)
 
 ### Workshops Schedule Overview
 
