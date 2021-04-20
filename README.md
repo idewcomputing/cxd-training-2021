@@ -8,7 +8,8 @@ description: Preparing Innovators in Computing
 
 **Customize a path that aligns with your needs in teaching computer science**. Computing by Design \(CxD\) offers an array of professional development opportunities to prepare you for teaching your first CS class, enhancing your current curriculum, or simply incorporating CS principles in another subject. Sign up for one or any combination of workshops.
 
-**Enjoy your summer activities while preparing for computer science.** All workshops are offered online and are designed to take approximately 2 hours each day \(\*\), providing you flexibility in your summer schedule. You will have constant access to the online material and access to an online Slack community of instructors and fellow teachers. Each week there will be two one-hour Zoom meetings for guest interviews, questions and sharing workshop progress.
+**Enjoy your summer activities while preparing for computer science.** All workshops are offered online and are designed to take approximately 2 hours each day \(\*\), providing you flexibility in your summer schedule. You will have constant access to the online material and access to an online Slack community of instructors and fellow teachers. Each week there will be two one-hour Zoom meetings for guest interviews, questions and sharing workshop progress.  
+_\* The PBLWorks workshop is an exception: It is 3 full days online \(synchronous\)._
 
 ### Recommended Workshop Pathways  👇 
 
