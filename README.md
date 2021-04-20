@@ -6,11 +6,13 @@ description: Preparing Innovators in Computing
 
 ## Welcome to Our 2021 Online Summer Workshop Series!  
 
-**Enjoy your summer activities while preparing for computer science.** All workshops are offered online and designed to take approximately 2 hours each day of the workshop \(\*\), providing you flexibility in your summer schedule and allowing you to customize a path that aligns with your needs in teaching computer science.  _\* Exception: The PBLWorks workshop is 3 full days online._
+**Customize a path that aligns with your needs in teaching computer science**. Computing by Design \(CxD\) offers an array of professional development opportunities to prepare you for teaching your first CS class, enhancing your current curriculum, or simply incorporating CS principles in another subject. Sign up for one or any combination of workshops.
+
+**Enjoy your summer activities while preparing for computer science.** All workshops are offered online and are designed to take approximately 2 hours each day \(\*\), providing you flexibility in your summer schedule. You will have constant access to the online material and access to an online Slack community of instructors and fellow teachers. Each week there will be two one-hour Zoom meetings for guest interviews, questions and sharing workshop progress.
 
 ### Recommended Workshop Pathways  👇 
 
-While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start.
+While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start. If you have questions or want more guidance on how to proceed, please [contact Vicki Daugherty](mailto:%20vdaugher@iupui.edu).
 
 ![Click image to enlarge.](.gitbook/assets/pathways2.png)
 
