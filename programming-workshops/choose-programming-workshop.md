@@ -2,7 +2,7 @@
 
 ### Choose from six workshops specifically focused on the tasks of programming and building.
 
-These six workshops will run concurrently for one week, June 7 -11. **If you intend to teach a full year course, we recommend you choose two technology workshops.** 
+These six workshops will run concurrently for one week, June 7 -11. **If you intend to teach a full year course, we recommend you choose two programming workshops.** 
 
 ![](../.gitbook/assets/vidcoming.png)
 
