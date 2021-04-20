@@ -12,7 +12,7 @@ description: Preparing Innovators in Computing
 
 ### Recommended Workshop Pathways  👇 
 
-While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start. If you have questions or want more guidance on how to proceed, please [contact Vicki Daugherty](mailto:%20vdaugher@iupui.edu).
+While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start. **If you have questions or want more guidance on how to proceed, please** [**contact Vicki Daugherty**](mailto:%20vdaugher@iupui.edu)**.**
 
 ![Click image to enlarge.](.gitbook/assets/pathways2.png)
 
