@@ -98,5 +98,3 @@ The maximum total stipend in a summer workshop series will not exceed $1000 per 
 * Complete associated surveys
 * Submission of a final deliverable that demonstrates competency in the workshop content
 
-
-
