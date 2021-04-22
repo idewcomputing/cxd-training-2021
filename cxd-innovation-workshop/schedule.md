@@ -2,7 +2,7 @@
 
 ## Workshop Final Deliverable
 
-Each **workshop cohort** has a **final deliverable due by June 28**. 
+Each workshop cohort has a final deliverable, due by **June 28,** consisting of a sampling of example student deliverables and a plan outline for facilitating a project in the classroom.
 
 ## Live Zoom Sessions
 

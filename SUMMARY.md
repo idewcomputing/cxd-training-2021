@@ -7,7 +7,7 @@
 
 * [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
 * [✻ Schedule](programming-workshops/schedule.md)
-* [✻ Slack Workspace](https://slack.com)
+* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Trivia Web App](programming-workshops/trivia.md)
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
@@ -19,7 +19,7 @@
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 * [✻ Schedule](cxd-innovation-workshop/schedule.md)
-* [✻ Slack Workspace](https://slack.com)
+* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Module 1](cxd-innovation-workshop/module-1.md)
 * [Module 2](cxd-innovation-workshop/module-2.md)
 * [Module 3](cxd-innovation-workshop/module-3.md)
@@ -32,7 +32,7 @@
 
 * [✻ Short Projects for Any Class](cs-short-workshops/short-projects.md)
 * [✻ Schedule](cs-short-workshops/schedule.md)
-* [✻ Slack Workspace](https://slack.com)
+* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Define a Problem and Value Proposition](cs-short-workshops/define-a-problem-and-value-proposition.md)
 * [Design and Build a Solution](cs-short-workshops/design-and-build-a-solution.md)
 * [Evaluate and Refine a Solution](cs-short-workshops/evaluate-and-refine-a-solution.md)

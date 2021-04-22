@@ -2,7 +2,7 @@
 
 ## Workshop Deliverable
 
-Each **programming workshop** has a **final deliverable due by June 14**. 
+Each programming workshop has a final deliverable, due by **June 14**, consisting of a working code example with enhancements and a custom checklist for facilitating programming in the classroom. 
 
 ## Live Zoom Sessions
 

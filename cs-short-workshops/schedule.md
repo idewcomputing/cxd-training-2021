@@ -2,7 +2,7 @@
 
 ## Workshop Deliverable
 
-Each **cross-discipline workshop** has a **final deliverable due by July 19**. 
+Each cross-discipline workshop has a final deliverable, due by **July 19,** consisting of a completed project example and custom checklist for facilitating the project in class. 
 
 ## Live Zoom Sessions
 
