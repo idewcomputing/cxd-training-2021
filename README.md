@@ -78,7 +78,7 @@ While you can customize which workshops you take, here are a few recommendations
   </tbody>
 </table>
 
-![](.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/6556ef011e2d41f982d8e125d3e7ab07" %}
 
 ### **Stand Alone Computer Science Activities for K-12** 
 
