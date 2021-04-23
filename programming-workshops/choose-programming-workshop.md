@@ -4,7 +4,7 @@
 
 These six workshops will run concurrently for one week, June 7 -11. **If you intend to teach a full year course, we recommend you choose two programming workshops.** 
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/b4c56a8adda449cb91abe16de134f594" %}
 
 ## Choose From Six Programming Workshops
 
