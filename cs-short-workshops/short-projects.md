@@ -8,9 +8,9 @@ Choose one \(or more\) of six workshops that introduce you to short projects of 
 
 | Workshop | Description |
 | :--- | :--- |
-| **Defining Problems and Value Propositions** |  |
-| **Designing and Building Solutions** |  |
-| **Evaluating and Refining Solutions** | \*\*\*\* |
+| **Proposing Solutions in Computing Workshop** |  |
+| **Sketching and Prototyping in Computing Workshop** |  |
+| **Product Evaluation in Computing Workshop** | \*\*\*\* |
 | **CS for Math & Science: Charting Data** | \*\*\*\* |
 | **CS for Language Arts: Use Machine Learning to Analyze Writing** | \*\*\*\* |
 | **Build a Flip Card App Study Guide for Any Course** | \*\*\*\* |

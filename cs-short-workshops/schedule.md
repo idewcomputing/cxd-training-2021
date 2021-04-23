@@ -20,9 +20,9 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>Define a Problem and Value Proposition Workshop<br />Design and Build a Solution Workshop</b>
+        <p><b>Proposing Solutions in Computing Workshop<br />Sketching and Prototyping in Computing Workshop</b>
         </p>
-        <p><b>Evaluate and Refine a Solution Workshop</b>
+        <p><b>Product Evaluation in Computing Workshop</b>
         </p>
       </td>
       <td style="text-align:left">
@@ -62,7 +62,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Define a Problem and Value Proposition Workshop</b>
+      <td style="text-align:left"><b>Proposing Solutions in Computing Workshop</b>
       </td>
       <td style="text-align:left">
         <p><b>Wednesday July 14</b>
@@ -72,7 +72,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Design and Build a Solution Workshop</b>
+      <td style="text-align:left"><b>Sketching and Prototyping in Computing Workshop</b>
       </td>
       <td style="text-align:left">
         <p><b>Wednesday July 14</b>
@@ -82,7 +82,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Evaluate and Refine a Solution Workshop</b>
+      <td style="text-align:left"><b>Product Evaluation in Computing Workshop</b>
       </td>
       <td style="text-align:left">
         <p><b>Wednesday July 14</b>
