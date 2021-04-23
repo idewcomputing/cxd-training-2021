@@ -9,9 +9,9 @@
 * [✻ Schedule](programming-workshops/schedule.md)
 * [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Trivia Web App](programming-workshops/trivia.md)
+* [Chatbot Web App](programming-workshops/chatbot.md)
 * [Wheeled Robot](programming-workshops/robot.md)
 * [Video Game](programming-workshops/video-game.md)
-* [Chatbot Web App](programming-workshops/chatbot.md)
 * [Internet of Things \(IoT\)](programming-workshops/iot.md)
 * [Data Visualization](programming-workshops/dataviz.md)
 
