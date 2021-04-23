@@ -7,5 +7,5 @@ In partnership with PBLWorks, a three-day workshop \(PBL 101\) will be offered t
 The PBLWorks workshop will be consistent with a computer science centric approach in project-based learning, applying techniques common in computer science disciplines and standards related to problem-solving with data, design, and programming.  
 
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/5add7acb79714ac2b14d068d1d1f6099" %}
 
