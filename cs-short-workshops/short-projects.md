@@ -6,14 +6,79 @@ Choose one \(or more\) of six workshops that introduce you to short projects of 
 
 ![](../.gitbook/assets/vidcoming.png)
 
-| Workshop | Description |
-| :--- | :--- |
-| **Proposing Solutions in Computing Workshop** | Students investigate a problem, defining the key stakeholders and identifying the opportunities for improvement with computing technologies. Students will then generate proposals for presentation. |
-| **Sketching and Prototyping in Computing Workshop** | Students envision a new mobile application through sketches and generate a dynamic prototype \(without coding\) to evaluate their idea. |
-| **Product Evaluation in Computing Workshop** | Students conduct a careful study of an existing computer/phone product for usability and user experience. Students will synthesize a report or presentation to share their findings and recommendations. |
-| **CS for Math & Science: Charting Data** | Students process and prepare data for visualization with a combination of spreadsheets and graphics software. |
-| **CS for Language Arts: Use Machine Learning to Analyze Writing** | Students experiment with _natural language processing_ techniques to analyze writing and evaluate the value and risk it brings. |
-| **Build a Flip Card App Study Guide for Any Course** | Students input course content for a flip card application and then style it for a fun and engaging experience. **** |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Workshop</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Proposing Solutions in Computing Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students investigate a problem, defining the key stakeholders and identifying
+          the opportunities for improvement with computing technologies. Students
+          will then generate proposals for presentation.</p>
+        <p><b>Business, Design, and Language Arts</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sketching and Prototyping in Computing Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students envision a new mobile application through sketches and generate
+          a dynamic prototype (without coding) to evaluate their idea.</p>
+        <p><b>Engineering Design, Drawing and Art</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Product Evaluation in Computing Workshop</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students conduct a careful study of an existing computer/phone product
+          for usability and user experience. Students will synthesize a report or
+          presentation to share their findings and recommendations.</p>
+        <p><b>Business, Design, Language Arts</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CS for Math &amp; Science: Charting Data</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students process and prepare data for visualization with a combination
+          of spreadsheets and graphics software.</p>
+        <p><b>Math, Science, and Engineering</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CS for Language Arts: Use Machine Learning to Analyze Writing</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students experiment with <em>natural language processing</em> techniques
+          to analyze writing and evaluate the value and risk it brings.</p>
+        <p><b>Language Arts and Social Sciences</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Build a Flip Card App Study Guide for Any Course</b>
+      </td>
+      <td style="text-align:left">
+        <p>Students input course content for a flip card application and then style
+          it for a fun and engaging experience.<b> </b>
+        </p>
+        <p><b>Any Subject</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
