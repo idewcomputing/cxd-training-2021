@@ -2,6 +2,7 @@
 
 * [Computing by Design 2021](README.md)
 * [About Us](about-us.md)
+* [Contact](contact.md)
 
 ## ••••••••••••••••••••••••••••••••••••••••••              Programming Workshops
 
