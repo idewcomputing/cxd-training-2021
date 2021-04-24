@@ -11,6 +11,8 @@ description: Preparing Innovators in Computing
 **Enjoy your summer activities while preparing for computer science.** All workshops are offered online and are designed to take approximately 2 hours each day \(\*\), providing you flexibility in your summer schedule. You will have constant access to the online material and access to an online Slack community of instructors and fellow teachers. Each week there will be two one-hour Zoom meetings for guest interviews, questions and sharing workshop progress.  
 _\* The PBLWorks workshop is an exception: It is 3 full days online \(synchronous\)._
 
+![](.gitbook/assets/orgbanner.png)
+
 ### Recommended Workshop Pathways  👇 
 
 While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start. The workshops support grades 6 -12 instruction, except for a [few of the programming workshops are more appropriate for grades 10-12](https://docs.idew.org/cxd2021/programming-workshops/choose-programming-workshop#choose-from-six-programming-workshops). 
@@ -20,8 +22,6 @@ While you can customize which workshops you take, here are a few recommendations
 {% endhint %}
 
 ![Click image to enlarge.](.gitbook/assets/pathways2.png)
-
-![](.gitbook/assets/orgbanner.png)
 
 ### Workshops Schedule Overview
 
