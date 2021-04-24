@@ -17,11 +17,11 @@ _\* The PBLWorks workshop is an exception: It is 3 full days online \(synchronou
 
 While you can customize which workshops you take, here are a few recommendations to consider if you are unsure where to start. The workshops support grades 6 -12 instruction, except for a [few of the programming workshops, which are more appropriate for grades 10-12](https://docs.idew.org/cxd2021/programming-workshops/choose-programming-workshop#choose-from-six-programming-workshops). 
 
+![Click image to enlarge.](.gitbook/assets/pathways2.png)
+
 {% hint style="info" %}
 **If you have questions or want more guidance on how to proceed, please** [**contact Vicki Daugherty at vdaugher@iupui.edu.**](mailto:%20vdaugher@iupui.edu)\*\*\*\*
 {% endhint %}
-
-![Click image to enlarge.](.gitbook/assets/pathways2.png)
 
 ### Workshops Schedule Overview
 
