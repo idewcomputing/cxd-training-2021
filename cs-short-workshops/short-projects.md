@@ -15,7 +15,7 @@ Choose one \(or more\) of six workshops that introduce you to short projects of 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Proposing Solutions in Computing Workshop</b>
+      <td style="text-align:left"><b>Proposing Solutions in Computing</b>
       </td>
       <td style="text-align:left">
         <p>Students investigate a problem, defining the key stakeholders and identifying
@@ -26,7 +26,7 @@ Choose one \(or more\) of six workshops that introduce you to short projects of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Sketching and Prototyping in Computing Workshop</b>
+      <td style="text-align:left"><b>Sketching and Prototyping in Computing</b>
       </td>
       <td style="text-align:left">
         <p>Students envision a new mobile application through sketches and generate
@@ -36,7 +36,7 @@ Choose one \(or more\) of six workshops that introduce you to short projects of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Product Evaluation in Computing Workshop</b>
+      <td style="text-align:left"><b>Product Evaluation in Computing</b>
       </td>
       <td style="text-align:left">
         <p>Students conduct a careful study of an existing computer/phone product
