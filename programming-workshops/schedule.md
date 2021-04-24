@@ -1,7 +1,7 @@
 ---
 description: >-
-  Online Workshop | Week of June 7-11 | Approximately 1-2 hours a day, mostly on
-  your schedule
+  Online Workshops | Week of June 7-11 | Approximately 1-2 hours a day, mostly
+  on your schedule
 ---
 
 # ✻ Schedule
