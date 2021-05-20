@@ -9,21 +9,59 @@
 * \*\*\*\*[**Trivia Code Reference**](https://docs.idew.org/code-trivia-app/)\*\*\*\*
 {% endhint %}
 
-## Workshop Agenda
+## Workshop Agenda \(June 7 - 11, 2021\)
 
-1. Welcome
-   1. Overview
-   2. Teacher Perspectives on Programming
-2. Introduction to Programming
-   1. Exercise
-   2. Professional Programmer Insights for Beginners
-3. Programming for the Project
-   1. Overview
-   2. Subject Matter Expert Insights
-   3. Project Code Tutorial
-4. Wrap-up
-   1. Teacher Perspectives on Managing Programming in the Classroom
-   2. Deliverables
+### Introduction and Workshop Preparation
+
+![](../.gitbook/assets/vidcoming.png)
+
+### Live Zoom: Workshop Launch and Discussion \(MON 1pm\)
+
+In this Zoom session we will review the workshop agenda and field any questions about getting started. The zoom link will be distributed on Slack.
+
+### Teacher Insights
+
+Watch these videos to get ideas and encouragement on how to develop confidence with programming and technology from teachers that have been there.
+
+| Teacher | Video Link |
+| :--- | :--- |
+| Teacher 1 | Link 1 |
+| Teacher 2 | Link 2 |
+
+### An Introduction to Key Programming Concepts
+
+Whether you are new to programming or have some experience, go through this basic tutorial covering some key concepts in programming.
+
+| Topics | Video Link |
+| :--- | :--- |
+| ... | Link 1 |
+| ... | Link 2 |
+
+### Recommendations from Programmers
+
+Check out these simple pointers from our guests that have done plenty of programming and understand the challenges of creating a custom application.
+
+| Guest | Video Link |
+| :--- | :--- |
+| Guest 1 | Link 1 |
+| Guest 2 | Link 2 |
+
+### Let's Program a Trivia App
+
+| Activity | Link |
+| :--- | :--- |
+| Video Introduction to the Trivia App | Link 1 |
+| Complete Tutorial Part 1 | Link 2 |
+| Complete Tutorial Part 2 | Link 3 |
+| Complete Tutorial Part 3 | Link 4 |
+
+### Live Zoom: Workshop Progress and Guidance on Wrap-Up
+
+We will cover key points and concerns from the workshop and discuss how to wrap things up. Be prepared with any questions you may have.
+
+### Workshop Deliverable
+
+Instructions coming....
 
 
 
