@@ -6,7 +6,7 @@
 * **This programming workshop will focus on the code tutorials in the code reference.**
 * \*\*\*\*[**Computing by Design Framework**](https://docs.idew.org/the-cxd-framework/)\*\*\*\*
 * \*\*\*\*[**Video Game Project Guidebook**](https://docs.idew.org/project-video-game/)\*\*\*\*
-* \*\*\*\*[**Video Game Code Reference**](https://docs.idew.org/code-video-game/)\*\*\*\*
+* \*\*\*\*[**Video Game Code Reference**](https://docs.idew.org/video-game-code-reference/)\*\*\*\*
 {% endhint %}
 
 
