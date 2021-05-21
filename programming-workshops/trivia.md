@@ -1,12 +1,7 @@
 # Trivia Web App
 
 {% hint style="info" %}
-**We are updating the 2021 workshop pages as we prepare for the summer series. In the meantime, take a look at these online materials.**
-
-* **This programming workshop will focus on the code tutorials in the code reference.**
-* \*\*\*\*[**Computing by Design Framework**](https://docs.idew.org/the-cxd-framework/)\*\*\*\*
-* \*\*\*\*[**Trivia Project Guide Book**](https://docs.idew.org/project-trivia-app/)\*\*\*\*
-* \*\*\*\*[**Trivia Code Reference**](https://docs.idew.org/code-trivia-app/)\*\*\*\*
+**We are updating the 2021 workshop pages as we prepare for the summer series. Expect to see frequent updates.**
 {% endhint %}
 
 ## Programming Workshop Agenda \(June 7 - 11, 2021\)
