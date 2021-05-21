@@ -9,11 +9,17 @@
 * \*\*\*\*[**Trivia Code Reference**](https://docs.idew.org/code-trivia-app/)\*\*\*\*
 {% endhint %}
 
-## Workshop Agenda \(June 7 - 11, 2021\)
+## Programming Workshop Agenda \(June 7 - 11, 2021\)
 
 ### Introduction and Workshop Preparation
 
-![](../.gitbook/assets/vidcoming.png)
+Welcome to the workshop! The following videos provide an overview of what to expect and a few things to prepare before we kick things off.
+
+| Topic | Video Link |
+| :--- | :--- |
+| Welcome | Link |
+| Getting Started with Slack | Link |
+| Getting Started with Replit.com | Link |
 
 ### Live Zoom: Workshop Launch and Discussion \(MON 1pm\)
 
@@ -25,17 +31,19 @@ Watch these videos to get ideas and encouragement on how to develop confidence w
 
 | Teacher | Video Link |
 | :--- | :--- |
-| Teacher 1 | Link 1 |
-| Teacher 2 | Link 2 |
+| Teacher 1 | Link |
+| Teacher 2 | Link |
 
 ### An Introduction to Key Programming Concepts
 
-Whether you are new to programming or have some experience, go through this basic tutorial covering some key concepts in programming.
+Whether you are new to programming or have some experience, go through this basic tutorial covering some key concepts in programming using JavaScript.
 
 | Topics | Video Link |
 | :--- | :--- |
-| ... | Link 1 |
-| ... | Link 2 |
+| Framing a Program and Programming Languages | Link |
+| Data, Variables, and Functions \(Built-in and Custom\) | Link |
+| Arrays, For Loops, and Conditionals | Link |
+| HTML and CSS | Link |
 
 ### Recommendations from Programmers
 
@@ -43,23 +51,25 @@ Check out these simple pointers from our guests that have done plenty of program
 
 | Guest | Video Link |
 | :--- | :--- |
-| Guest 1 | Link 1 |
-| Guest 2 | Link 2 |
+| Guest 1 | Link |
+| Guest 2 | Link |
 
-### Let's Program a Trivia App
+### ★★★ Let's Program a Trivia App ★★★
+
+This is the heart of the workshop, where you will work through the Trivia template build tutorial and customize your app. 
 
 | Activity | Link |
 | :--- | :--- |
-| Video Introduction to the Trivia App | Link 1 |
-| Complete Tutorial Part 1 | Link 2 |
-| Complete Tutorial Part 2 | Link 3 |
-| Complete Tutorial Part 3 | Link 4 |
+| Video Introduction to the Trivia App | Link |
+| Complete Tutorial Part 1 | Link |
+| Complete Tutorial Part 2 | Link |
+| Complete Tutorial Part 3 | Link |
 
 ### Live Zoom: Workshop Progress and Guidance on Wrap-Up
 
 We will cover key points and concerns from the workshop and discuss how to wrap things up. Be prepared with any questions you may have.
 
-### Workshop Deliverable
+### Workshop Deliverables
 
 Instructions coming....
 
