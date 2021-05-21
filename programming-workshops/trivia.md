@@ -6,6 +6,8 @@
 
 ## Programming Workshop Agenda \(June 7 - 11, 2021\)
 
+This workshop is largely asynchronous, providing you flexibility to complete things on a schedule that works for you. Below you will find the sequence of events and videos for the workshop. Notice the two live Zoom sessions on Monday at 1 pm and Wednesday at 11:30 am. Otherwise we will use Slack for discussions and impromptu Zoom meetings as needed. Please don't hesitate posting a message on Slack for help.
+
 ### Introduction and Workshop Preparation
 
 Welcome to the workshop! The following videos provide an overview of what to expect and a few things to prepare before we kick things off.
