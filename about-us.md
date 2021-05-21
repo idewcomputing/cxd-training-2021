@@ -8,14 +8,6 @@ Drawing on 15 years of industry experience as an engineer and designer, plus ove
 
 {% embed url="https://soic.iupui.edu/people/james-lyst/" caption="" %}
 
-## Justin Smith
-
-### Computer Science Teacher at Pike High School  / iDEW Teacher
-
-With nine years of teaching experience, eight of those years in Computer Science, Justin strives to have authentic and engaging work for his students. He lets his students be creative and come up with their own project topics. He focuses on building students’ technical and soft skills. He is a contributor to the Computing by Design framework and project material. [https://www.linkedin.com/in/justin-smith-1b611815b](https://www.linkedin.com/in/justin-smith-1b611815b).
-
-![](.gitbook/assets/jsmith.png)
-
 ## Vicki Daugherty
 
 **Program Manager and Diversity Coordinator**
