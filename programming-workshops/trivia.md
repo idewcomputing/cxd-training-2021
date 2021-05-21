@@ -60,7 +60,7 @@ This is the heart of the workshop, where you will work through the Trivia templa
 | Complete Tutorial Part 2 | Link |
 | Complete Tutorial Part 3 | Link |
 
-### Live Zoom: Workshop Progress and Guidance on Final Deliverables \(WED 11:30 am\)
+### Live Zoom: Workshop Progress & Guidance on Final Deliverables \(WED 11:30 am\)
 
 We will cover key points and concerns from the workshop and discuss how to wrap things up. Be prepared with any questions you may have.
 
