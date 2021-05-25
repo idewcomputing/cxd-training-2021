@@ -31,7 +31,6 @@
 
 * [✻ Short Projects for Any Class](cs-short-workshops/short-projects.md)
 * [✻ Schedule](cs-short-workshops/schedule.md)
-* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Proposing Solutions in Computing](cs-short-workshops/proposing-solutions.md)
 * [Sketching and Prototyping in Computing](cs-short-workshops/sketching-prototyping.md)
 * [Product Evaluation in Computing](cs-short-workshops/product-evaluation.md)
