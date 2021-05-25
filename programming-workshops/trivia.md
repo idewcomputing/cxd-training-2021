@@ -1,10 +1,6 @@
----
-description: >-
-  ⚠️ You will see frequent updates as we prepare for the workshop beginning June
-  7.
----
-
 # Trivia Web App
+
+## ⚠️ Expect frequent updates as we prepare for the workshop.
 
 {% hint style="success" %}
 **Primary Workshop Resources**
