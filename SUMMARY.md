@@ -19,7 +19,6 @@
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 * [✻ Schedule](cxd-innovation-workshop/schedule.md)
-* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Module 1](cxd-innovation-workshop/module-1.md)
 * [Module 2](cxd-innovation-workshop/module-2.md)
 * [Module 3](cxd-innovation-workshop/module-3.md)
