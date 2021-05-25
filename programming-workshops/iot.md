@@ -7,7 +7,9 @@
 
 * **Slack Channel:** _\#ws-programming-iot_ in the CxD 2021 Slack Workspace
 * **Documentation Link:** [IoT Code Reference and Tutorials](https://docs.idew.org/code-internet-of-things/)
-* **Programming Platform:** [Particle Build ](https://build.particle.io/)is the the recommended programming platform.
+* **Programming Platforms** 
+  * [Particle Build ](https://build.particle.io/)is the recommended programming platform for the IoT Board.
+  * [Replit.com](https://replit.com) is the recommended platform for web app programming.
 * **Zoom Video Conferences:** A link will be provided on Slack
 {% endhint %}
 
@@ -24,6 +26,7 @@ Welcome to the workshop! The following videos provide an overview of what to exp
 | Welcome | Link |
 | Getting Started with Slack | Link |
 | Getting Started with Particle Build | Link |
+| Getting Started with Replit.com | Link |
 
 ### 2 Live Zoom: Workshop Launch and Discussion \(MON 1 pm\)
 
