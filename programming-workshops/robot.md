@@ -8,11 +8,6 @@
 * **Slack Channel:** _\#ws-programming-robot_ in the CxD 2021 Slack Workspace
 * **Documentation Link:** [Robot Code Reference and Tutorials](https://docs.idew.org/code-robotics/)
 * **Programming Platform:** [Arduino Create](https://create.arduino.cc/editor) is the the recommended programming platform.
-{% endhint %}
-
-\*\*\*\*
-
-{% hint style="success" %}
 * **Zoom Video Conferences:** A link will be provided on Slack
 {% endhint %}
 
