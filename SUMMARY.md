@@ -8,7 +8,6 @@
 
 * [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
 * [✻ Schedule](programming-workshops/schedule.md)
-* [✻ Slack Workspace \(Soon\)](https://slack.com)
 * [Trivia Web App](programming-workshops/trivia.md)
 * [Chatbot Web App](programming-workshops/chatbot.md)
 * [Wheeled Robot](programming-workshops/robot.md)
