@@ -1,2 +1,2 @@
-# Workshop Deliverables ★
+# Workshop Deliverables
 
