@@ -15,7 +15,7 @@
   * [Programming Intro ⏱](programming-workshops/trivia/programming-intro.md)
   * [Programmer Insights](programming-workshops/trivia/programmer-insights.md)
   * [Program a Trivia App ⏱](programming-workshops/trivia/program-a-trivia-app.md)
-  * [Live Zoom: Wed 11:00 am ⏰](programming-workshops/trivia/live-zoom-wed-11-00-am.md)
+  * [Live Zoom: Wed 11:30 am ⏰](programming-workshops/trivia/live-zoom-wed-11-00-am.md)
   * [Workshop Deliverables](programming-workshops/trivia/workshop-deliverables.md)
 * [Chatbot Web App](programming-workshops/chatbot/README.md)
   * [Welcome & Workshop Prep](programming-workshops/chatbot/welcome-and-workshop-prep.md)
