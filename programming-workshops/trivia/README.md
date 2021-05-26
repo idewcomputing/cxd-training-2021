@@ -4,7 +4,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 # Trivia Web App
 
-### Programming Workshop Sequence \(June 7 - 11, 2021\)
+###  Programming Workshop Sequence \(June 7 - 11, 2021\)
 
 **This workshop is largely asynchronous, providing you flexibility to complete things on a schedule that works for you.** Below you will find the sequence of events and videos for the workshop. Notice the two live Zoom sessions on **Monday at 1:00 pm** and **Wednesday at 11:30 am**. Otherwise we will use Slack for discussions and impromptu Zoom meetings as needed. Please don't hesitate posting a message on Slack for help.
 
