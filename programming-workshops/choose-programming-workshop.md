@@ -8,8 +8,8 @@ These six workshops will run concurrently for one week, June 7 -11. **If you int
 
 ## Choose From Six Programming Workshops
 
-\*\*\*\*[**Trivia Web App:**](trivia.md) ****Build a trivia game using HTML/CSS/JavaScript with a question and answers database managed in a spreadsheet. We highly recommend the trivia app for the first time experience with Computing by Design projects. **Recommended for Grades 6-12.**   
-[**Learn more &gt;**](trivia.md)\*\*\*\*
+\*\*\*\*[**Trivia Web App:**](trivia/) ****Build a trivia game using HTML/CSS/JavaScript with a question and answers database managed in a spreadsheet. We highly recommend the trivia app for the first time experience with Computing by Design projects. **Recommended for Grades 6-12.**   
+[**Learn more &gt;**](trivia/)\*\*\*\*
 
 [**Chatbot:**](chatbot.md) ****Create a chatbot script with decision logic to interact with visitors in a browser. Customize the visual experience and connect it to a back-end database using a spreadsheet. **Recommended for Grades 6-12.**   
 [**Learn more &gt;**](chatbot.md)\*\*\*\*
