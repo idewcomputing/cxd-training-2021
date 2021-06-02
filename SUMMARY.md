@@ -11,7 +11,7 @@
 * [Trivia Web App](programming-workshops/trivia/README.md)
   * [Workshop Prep](programming-workshops/trivia/welcome-and-workshop-prep.md)
   * [Live Zoom: Mon 1:00 pm ⏰](programming-workshops/trivia/live-zoom-mon-1-00-pm.md)
-  * [Programming Concepts ⏱](programming-workshops/trivia/programming-intro.md)
+  * [Programming Warm-Up ⏱](programming-workshops/trivia/programming-intro.md)
   * [Teacher Insights](programming-workshops/trivia/programmer-insights.md)
   * [Program a Trivia App ⏱](programming-workshops/trivia/program-a-trivia-app.md)
   * [Live Zoom: Wed 11:30 am ⏰](programming-workshops/trivia/live-zoom-wed-11-00-am.md)
