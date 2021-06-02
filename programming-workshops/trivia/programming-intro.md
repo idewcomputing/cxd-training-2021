@@ -1,5 +1,5 @@
 ---
-description: An exercise to review (or introduce) you to some key concepts in computing.
+description: An exercise to review (or introduce) you to some key concepts in programming.
 ---
 
 # Programming Concepts ⏱
