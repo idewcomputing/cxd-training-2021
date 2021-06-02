@@ -26,14 +26,12 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 {% page-ref page="workshop-deliverables.md" %}
 
-{% hint style="success" %}
-**Workshop Resources**
+## **Workshop Resources**
 
 * **Slack Channel:** _\#ws-programming-data-viz_ in the CxD 2021 Slack Workspace
-* **Documentation Link:** [Data Visualization Programming Exercises](https://app.gitbook.com/@cxd/s/project-data-visualization-2/project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/~/settings/integrations)
+* **Documentation Link:** [Data Visualization Programming Exercises](https://app.gitbook.com/@cxd/s/project-data-visualization-2/project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/~/settings/integrations)\*\*\*\*
 * **Spreadsheets:** Our examples will use Google Sheets
 * **Python:** We will use Google Colab to create a Python notebook in Google Drive. 
 * **Web Programming \(HTML/CSS/JS\):** [Replit.com](https://replit.com) is the recommended programming platform for web programming.
 * **Zoom Video Conferences:** A link will be provided on Slack
-{% endhint %}
 

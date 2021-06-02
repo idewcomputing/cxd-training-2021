@@ -26,12 +26,12 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 {% page-ref page="workshop-deliverables.md" %}
 
-{% hint style="success" %}
-**Workshop Resources**
+## Workshop Resources
 
 * **Slack Channel:** _\#ws-programming-trivia_ in the CxD 2021 Slack Workspace
-* **Documentation Link:** [Trivia Code Reference and Tutorial](https://docs.idew.org/code-trivia-app/code-template/template-build-tutorial)
+* **Documentation Link:** [Trivia Code Reference and Tutorial](https://docs.idew.org/code-trivia-app/code-template/template-build-tutorial)\*\*\*\*
 * **Programming Platform:** [Replit.com](https://replit.com) is the recommended programming platform
 * **Zoom Video Conferences:** Link will be provided on Slack
-{% endhint %}
+* **Recommended Supplements**
+  * Online Programming Tutorials: 
 
