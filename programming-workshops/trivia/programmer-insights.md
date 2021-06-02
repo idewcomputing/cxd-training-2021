@@ -1,2 +1,2 @@
-# Programmer Insights
+# Teacher Insights
 
