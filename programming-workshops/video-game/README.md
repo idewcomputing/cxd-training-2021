@@ -27,7 +27,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 {% page-ref page="workshop-deliverables.md" %}
 
 {% hint style="success" %}
-**Primary Workshop Resources**
+**Workshop Resources**
 
 * **Slack Channel:** _\#ws-programming-video-game_ in the CxD 2021 Slack Workspace
 * **Documentation Link:** [Video Game Code Reference and Tutorials](https://docs.idew.org/video-game-code-reference/)

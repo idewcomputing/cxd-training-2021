@@ -22,7 +22,7 @@ This exercise will use **JavaScript**, the primary programming language for web 
 
 ## Let's Program: Variables, Functions, and Conditionals
 
-This introduction takes a direct approach to preparing you for programming the CxD projects, and therefore takes an _"application first"_ perspective. **We will frame this introduction by starting a very simple** _**To Do Application**_**.** 
+This introduction takes a direct approach to preparing you for programming the CxD projects, and therefore takes an _"application first"_ perspective. **We will frame this introduction by starting a very simple** _**To Do Application**_**.**
 
 ![](../../.gitbook/assets/vidcoming.png)
 

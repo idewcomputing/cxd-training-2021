@@ -27,7 +27,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 {% page-ref page="workshop-deliverables.md" %}
 
 {% hint style="success" %}
-**Primary Workshop Resources**
+**Workshop Resources**
 
 * **Slack Channel:** _\#ws-programming-data-viz_ in the CxD 2021 Slack Workspace
 * **Documentation Link:** [Data Visualization Programming Exercises](https://app.gitbook.com/@cxd/s/project-data-visualization-2/project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/~/settings/integrations)

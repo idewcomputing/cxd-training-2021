@@ -25,7 +25,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 {% page-ref page="workshop-deliverables.md" %}
 
 {% hint style="success" %}
-**Primary Workshop Resources**
+**Workshop Resources**
 
 * **Slack Channel:** _\#ws-programming-chatbot_ in the CxD 2021 Slack Workspace
 * **Documentation Link:** [Chatbot Code Reference and Tutorial](https://docs.idew.org/code-chatbot/core-template)
