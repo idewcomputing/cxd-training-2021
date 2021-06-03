@@ -30,7 +30,7 @@ Slack will be our primary communication platform for the workshop. The video abo
 
 ## Getting Started with Arduino Create Editor
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/32e19fbe94fe4d3387032c3420cb4adc" %}
 
 Our robot will be programmed using the [Arduino](https://www.arduino.cc/) programming language. We recommend using the **Arduino Create** web-based programming environment through the browser. There is an option to download a native application as well. This is just a quick intro. We will cover much more later in the workshop.
 
