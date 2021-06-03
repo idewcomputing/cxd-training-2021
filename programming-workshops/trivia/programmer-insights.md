@@ -4,7 +4,7 @@ Here you will find various insights from teachers and programmers on how to appr
 
 ## Angela Jones
 
-Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis.
+Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis and an experienced Computing by Design teacher as part of the iDEW program.
 
 ### On Enjoying the Journey
 
