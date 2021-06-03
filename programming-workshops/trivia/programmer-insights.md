@@ -8,13 +8,9 @@ Here you will find various insights from teachers and programmers on how to appr
 
 ### On Developing Content Knowledge
 
-{% embed url="https://drive.google.com/file/d/1LYDc7JROl8hwwuHOqL8ZTOrWjazjtqBM/view?usp=sharing" %}
-
-In this video Luke provides insight on teaching computer science, especially if you are fairly new to programming and learning a lot as well.
+{% embed url="https://drive.google.com/file/d/1LYDc7JROl8hwwuHOqL8ZTOrWjazjtqBM/view?usp=sharing" caption="In this video Luke provides insight on teaching computer science, especially if you are fairly new to programming and learning a lot as well." %}
 
 ### On Managing Student Success
 
-{% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" %}
-
-In this video provides guidance on how to manage students as they work on projects.
+{% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" caption="In this video provides guidance on how to manage students as they work on projects." %}
 
