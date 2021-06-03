@@ -20,9 +20,9 @@ description: An exercise to review (or introduce) you to some key concepts in pr
 
 This exercise will use **JavaScript**, the primary programming language for web applications that work in a standard browser. There are many other popular programming languages. A particular language is chosen for implementation based on several factors related to the context of the need. Here are a few you may have heard of -- **Python, Java \(different from JavaScript!\), Arduino, C++ and C\#**.  Note: While HTML and CSS are languages with a defined syntax, they are usually distinguished from programming languages that provide computation and functions.
 
-## Let's Program: Variables, Functions, and Conditionals
+## Let's Program: Variables, Functions, Conditionals, and Objects
 
-This exercise takes a direct approach to prepare you for programming a CxD project by taking an _"application first"_ perspective. **We will frame this introduction by creating a simplified** _**To Do Application**_ **using Javascript, HTML, and CSS for use in a web browser.** 
+This exercise takes a direct approach to prepare you for programming a CxD project by taking an _"application first"_ perspective. **We will frame this introduction by creating a simplified** _**To Do Application**_ **using Javascript.** 
 
 {% hint style="info" %}
 **You are highly encouraged to build \(and experiment with\) the program as demonstrated in the video to get a feel for the programming.**  It is assumed you completed the "Getting Started with Replit" in the _Workshop Prep_. Also, remember to also try some online tutorials as a supplemental experience as explained in the _Workshop Prep_.
@@ -107,104 +107,100 @@ displayTodos();
 ```
 {% endcode %}
 
-## HTML and JavaScript
+### Use an Object
 
-Here we cover just the basics of how to update HTML content using JavaScript. This allows us to output content in the normal browser window that can be visually customized.
-
-![](../../.gitbook/assets/vidcoming.png)
-
-### Define HTML Elements for the Content
-
-Here we have **three** _**div**_ **elements** in our HTML to display _the to do item_, _the time to complete_, and _the status of the to do item_. Notice how each element has a defined **attribute**, an _**id**_ that will allow us to update the HTML content with JavaScript next.
-
-{% code title="index.html" %}
-```markup
-    <!-- all of this HTML goes inside the body element  -->
-    <div id="todo-item">My To Do Item</div>
-    <div id="time">Time to Complete</div>
-    <div id="is-complete">Is it Complete?</div>
-    <script src="script.js"></script>
-```
-{% endcode %}
-
-### Update the HTML Content with JavaScript
-
-Here, rather than use the `console.log()` function, we use `document.querySelector()` to **select** the HTML element we want, based on the **id attribute**, then set the innerHTML to the value we want. 
+Here we will use a single **object** variable to hold all the data for a particular to-do item.
 
 {% code title="script.js" %}
 ```javascript
-//declare some variables
-var todo = "Walk the dog.";
-var time = 30;
-var isComplete = true;
+//declare a variable for our data
+var todo = {
+  text: "Walk the dog.",
+  time: 30,
+  isComplete: false
+};
 
-//define a custom function to display to do's
+//define a custom function to output to do's
 function displayTodos() {
-  document.querySelector("#todo-item").innerHTML = todo;
-  document.querySelector("#time").innerHTML = time;
+  console.log(todo.text);
+  console.log(todo.time);
   
   //customize the output based on whether it is complete
-  if (isComplete) {
-    document.querySelector("#is-complete").innerHTML = "This is complete.";
+  if (todo.isComplete) {
+    console.log("This is complete.");
   }
   else {
-    document.querySelector("#is-complete").innerHTML = "This is not complete";
+    console.log("This is not complete");
   }
 }
 
 //call (or invoke) the displayTodos() function to actually run it
 displayTodos();
-
 ```
 {% endcode %}
 
-## CSS
-
-CSS \(Cascading Stylesheets\) allow us to have fun with the style of web content. Let's update our code a little bit and have some fun with it.
+## JavaScript Arrays
 
 ![](../../.gitbook/assets/vidcoming.png)
 
-### Update HTML Elements
+### Make a List \(or Array\)
 
-Let's update our HTML file a little. First let's wrap our content in another _div_ element with a **class** called _card_. This will allow us to create a visual card with some style. Next, let's change our _todo-item_ element to an _**h2**_ **element** so that it is larger by default.
+Here we will use an **array** and **for-loop** to list multiple to-do items. We will ignore the time and completion data for now.
 
-{% code title="index.html" %}
-```markup
-    <!-- all of this HTML goes inside the body element  -->
-    <div class="card">
-        <h2 id="todo-item">My To Do Item</h2>
-        <div id="time">Time to Complete</div>
-        <div id="is-complete">Is it Complete?</div>
-    </div>
-    <script src="script.js"></script>
+{% code title="script.js" %}
+```javascript
+//declare a variable
+var todos = ["Walk the dog.","Go to grocery.","Call mom."];
+
+//define a custom function to display to do's
+function displayTodos() {
+  todos.forEach(function(todo) {
+    console.log(todo);
+  })
+}
+
+//call (or invoke) the displayTodos() function to actually run it
+displayTodos();
 ```
 {% endcode %}
 
-### Define Some Styles
+### Make an Array of Objects
 
-Here we set the _body_ \(the whole page\) background color and the _h2_ element text color. We also style the element that has a class of "card" with many properties. Notice that we can **select** elements by the **element name** \(like with body and h2\) or by the **class** using a period before the class name \(like with .card\). You could also select elements by _id_ by prefixing the _id_ name with a \#.
+Here we will combine our use of an **array** with **objects**. **This is the most difficult concept of this exercise and may take some time to digest. But it demonstrates a lot of powerful programming concepts in a very small program. 🚀🚀🚀🚀**
 
-{% code title="style.css" %}
-```css
-body {
-  background-color: lightgray;
+{% code title="script.js" %}
+```javascript
+//declare a variable
+var todos = [
+  {
+    text: "Walk the dog.",
+    time: 30
+  },
+  {
+    text: "Go to grocery.",
+    time: 60
+  },
+];
+
+//define a custom function to display to do's
+function displayTodos() {
+  todos.forEach(function (todo) {
+    console.log("---");
+    console.log(todo.text);
+    console.log(todo.time + " minutes");
+  })
 }
 
-h2 {
-  color: red;
-}
-
-.card {
-  background-color: white;
-  border: 5px solid yellow;
-  border-radius: 7px;
-  padding: 15px;
-  box-shadow: 1px 1px 3px black;
-}
+//call (or invoke) the displayTodos() function to actually run it
+displayTodos();
 ```
 {% endcode %}
+
+{% hint style="success" %}
+#### 🎉Congratulations for making it through so many programming concepts in a short time!  
+{% endhint %}
 
 ## Wrap-Up
 
-That's our warm-up. Please don't hesitate posting questions along with a link to your replit code in our Slack channel for the workshop.
+That's our warm-up. Whether you found these concepts incredibly difficult or mostly review, please don't hesitate posting questions along with a link to your replit code in our Slack channel for the workshop.
 
