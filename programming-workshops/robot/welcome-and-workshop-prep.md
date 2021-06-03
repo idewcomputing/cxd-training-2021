@@ -32,3 +32,5 @@ Slack will be our primary communication platform for the workshop. The video abo
 
 ![](../../.gitbook/assets/vidcoming.png)
 
+Our robot will be programmed using the [Arduino](https://www.arduino.cc/) programming language. We recommend using the [**Arduino Create**](https://create.arduino.cc/) programming environment through the browser. There is an option to [download a native application](https://www.arduino.cc/en/software) as well. This is just a quick intro but you can find [**much more documentation**](https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a?f=1) ****on Arduino's site.
+
