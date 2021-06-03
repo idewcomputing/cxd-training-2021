@@ -2,11 +2,11 @@
 
 ## Background and Recommended Classroom Approach
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/2c8a04779c174065b6204dfa1682b2b6" caption="✻ NOTE: For those participating in multiple programming workshops, this video is used in all programming workshop sequences. So, if it looks familiar, you may have already seen this. " %}
 
 ### Background on Computing by Design Framework
 
-**This workshop is focused squarely on the programming component of the Trivia Project.** For a little bit of background, you will find that the Computing by Design framework is project-centric in the approach. 
+**This workshop is focused squarely on the programming component of a CxD Project.** For a little bit of background, you will find that the Computing by Design framework is project-centric in the approach. 
 
 ![](../../.gitbook/assets/pblvs.png)
 
