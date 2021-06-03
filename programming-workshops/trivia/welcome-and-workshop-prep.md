@@ -6,7 +6,7 @@
 
 ### Background on Computing by Design Framework
 
-**This workshop is focused squarely on the programming component of the Trivia Project.** For a little bit of background, you will find that the Computing by Design framework is project-centric in the approach. 
+**This workshop is focused squarely on the programming component of a CxD Project.** For a little bit of background, you will find that the Computing by Design framework is project-centric in the approach. 
 
 ![](../../.gitbook/assets/pblvs.png)
 
