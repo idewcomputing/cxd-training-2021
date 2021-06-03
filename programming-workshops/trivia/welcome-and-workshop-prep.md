@@ -2,7 +2,7 @@
 
 ## Background and Recommended Classroom Approach
 
-![](../../.gitbook/assets/vidcoming.png)
+![&#x273B; NOTE: For those participating in multiple programming workshops, this video is used in all programming workshop sequences. So, if it looks familiar, you may have already seen this. ](../../.gitbook/assets/vidcoming.png)
 
 ### Background on Computing by Design Framework
 
