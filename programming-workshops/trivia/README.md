@@ -4,7 +4,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 # Trivia Web App
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 
