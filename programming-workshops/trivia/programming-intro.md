@@ -6,7 +6,7 @@ description: An exercise to review (or introduce) you to some key concepts in pr
 
 ## **The Big Picture**
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/ce345dac33cd401786605cea6c9a2438" %}
 
 **A program can be defined simply as** _**a set of instructions that perform defined tasks,**_ and we can use the  diagram below to frame the major components of a program. A program can be written to accept particular _**inputs,**_ like a mouse click, sound from a microphone, or a reading from a temperature sensor. The same program can handle the storage and retrieval of _**data**_, like _to do_ items or historical temperature data. The same program can then **output** something useful, like a current _to do_ list or move robot wheels. Multiple _**functions**_ are written to control and process everything towards some useful end, each function handling a particular task.
 
