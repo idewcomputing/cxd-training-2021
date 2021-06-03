@@ -14,6 +14,10 @@ Each programming workshop has a final deliverable, due by **June 14**, consistin
 
 For each workshop there are two scheduled zoom sessions. A zoom link will be added as the workshops approach.
 
+{% hint style="warning" %}
+### All posted times are Eastern Daylight Time \(EDT\)
+{% endhint %}
+
 ### Session 1: Welcome and Getting Started
 
 <table>

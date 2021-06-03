@@ -12,6 +12,10 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 **This workshop is largely asynchronous, providing you flexibility to complete things on a schedule that works for you.** Below you will find the sequence of events and videos for the workshop. Notice the two live Zoom sessions on **Monday at 1 pm** and **Wednesday at 2:30 pm**. Otherwise we will use Slack for discussions and impromptu Zoom meetings as needed. Please don't hesitate posting a message on Slack for help.
 
+{% hint style="warning" %}
+### All posted times are Eastern Daylight Time \(EDT\)
+{% endhint %}
+
 {% page-ref page="welcome-and-workshop-prep.md" %}
 
 {% page-ref page="live-zoom-mon-1-00-pm.md" %}
