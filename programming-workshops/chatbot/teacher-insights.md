@@ -12,7 +12,7 @@ Here you will find various insights from teachers and programmers on how to appr
 
 ### On Managing Student Success
 
-{% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" caption="In this video provides guidance on how to manage students as they work on projects." %}
+{% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" caption="In this video Luke provides guidance on how to manage students as they work on projects." %}
 
 
 
