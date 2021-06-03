@@ -4,21 +4,19 @@ description: Let's program a customized trivia app in three steps!
 
 # Program a Trivia App ⏱
 
-## 1 Complete the Template Build Tutorial
+#### **👉As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-trivia\) and include a link to your replit when needed.**
 
 ![](../../.gitbook/assets/vidcoming.png)
+
+## 1 Complete the Template Build Tutorial
 
 {% embed url="https://docs.idew.org/code-trivia-app/code-template/template-build-tutorial" %}
 
 ## 2 Create a Custom Question Database
 
-![](../../.gitbook/assets/vidcoming.png)
-
 {% embed url="https://docs.idew.org/code-trivia-app/code-template/managing-the-question-db" %}
 
 ## 3 Make Five Custom Modifications to Your Trivia Game 
-
-![](../../.gitbook/assets/vidcoming.png)
 
 {% embed url="https://docs.idew.org/code-trivia-app/advanced/code-mod-examples" %}
 
