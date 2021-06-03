@@ -56,7 +56,7 @@ console.log(isComplete);
 
 ### Define a Custom Function
 
-Here we **define** a **custom function** `displayTools()`. This allows us to **call** \(or **invoke**\) the function whenever we want.
+Here we **define** a **custom function** `displayTodos()`. This allows us to **call** \(or **invoke**\) the function whenever we want.
 
 {% code title="script.js" %}
 ```javascript
