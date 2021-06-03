@@ -4,7 +4,7 @@ description: Let's program a customized trivia app in three steps!
 
 # Program a Trivia App ⏱
 
-#### **👉As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-trivia\) and include a link to your replit when needed.**
+#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-trivia\) and include a link to your replit when needed.**
 
 ![](../../.gitbook/assets/vidcoming.png)
 
