@@ -25,7 +25,7 @@ This exercise will use **JavaScript**, the primary programming language for web 
 This exercise takes a direct approach to prepare you for programming a CxD project by taking an _"application first"_ perspective. **We will frame this introduction by creating a simplified** _**To Do Application**_ **using Javascript.** 
 
 {% hint style="info" %}
-**You are highly encouraged to build \(and experiment with\) the program as demonstrated in the video to get a feel for the programming.**  It is assumed you completed the "Getting Started with Replit" in the _Workshop Prep_. Also, remember to also try some online tutorials as a supplemental experience as explained in the _Workshop Prep_.
+**You are highly encouraged to build \(and experiment with\) the program as demonstrated in the video to get a feel for the programming.**  Also, remember to also try some online tutorials as a supplemental experience as explained in the _Workshop Prep_.
 {% endhint %}
 
 ![](../../.gitbook/assets/vidcoming.png)
