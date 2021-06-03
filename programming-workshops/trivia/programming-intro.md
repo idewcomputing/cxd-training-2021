@@ -141,7 +141,7 @@ displayTodos();
 
 ## JavaScript Arrays
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/095f0e88058b49aaa4016d8d1a24c648" %}
 
 ### Make a List \(or Array\)
 
