@@ -28,7 +28,7 @@ This exercise takes a direct approach to prepare you for programming a CxD proje
 **You are highly encouraged to build \(and experiment with\) the program as demonstrated in the video to get a feel for the programming.**  Also, remember to also try some online tutorials as a supplemental experience as explained in the _Workshop Prep_.
 {% endhint %}
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/22275f0694664a15acbe635c298e6b1a" %}
 
 ### Declare Variables and Use a Built-in Function
 
