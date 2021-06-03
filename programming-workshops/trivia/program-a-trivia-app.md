@@ -6,7 +6,7 @@ description: Let's program a customized trivia app in three steps!
 
 #### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-trivia\) and include a link to your replit when needed.**
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/80acb8a3f65a488cb91a717a4218cd1d" %}
 
 ## 1 Complete the Template Build Tutorial
 
