@@ -8,6 +8,7 @@
 
 * [✻ Choosing a Programming WS](programming-workshops/choose-programming-workshop.md)
 * [✻ Schedule](programming-workshops/schedule.md)
+* [✻ Optional: Programming Intros](https://docs.idew.org/cxd2020/preparation/programming-pre-work)
 * [Trivia Web App](programming-workshops/trivia/README.md)
   * [Workshop Prep](programming-workshops/trivia/welcome-and-workshop-prep.md)
   * [Live Zoom: Mon 1:00 pm ⏰](programming-workshops/trivia/live-zoom-mon-1-00-pm.md)
