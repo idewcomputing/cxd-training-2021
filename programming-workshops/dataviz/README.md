@@ -38,4 +38,5 @@ description: A project that connects complex ideas in data with code and visual 
 * **Python:** We will use Google Colab to create a Python notebook in Google Drive. 
 * **Web Programming \(HTML/CSS/JS\):** [Replit.com](https://replit.com) is the recommended programming platform for web programming.
 * **Zoom Video Conferences:** A link will be provided on Slack
+* **Recommended Programming Supplements:** See the Skill Building section of [**this document.**](https://docs.idew.org/project-data-visualization-2/#skill-building)\*\*\*\*
 

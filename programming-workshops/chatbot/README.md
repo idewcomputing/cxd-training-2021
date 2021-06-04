@@ -34,4 +34,5 @@ description: Where human conversation meets computer programming
 * **Documentation Link:** [Chatbot Code Reference and Tutorial](https://docs.idew.org/code-chatbot/core-template)\*\*\*\*
 * **Programming Platform:** [Replit.com](https://replit.com) is the recommended programming platform
 * **Zoom Video Conferences:** Link will be provided on Slack
+* **Recommended Programming Supplements**: See [**this page**](https://docs.idew.org/project-chatbot/challenge-and-background/skills-and-exploration).
 
