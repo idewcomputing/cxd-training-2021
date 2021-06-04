@@ -2,7 +2,7 @@
 
 #### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-robot\) and include a link to your Arduino code when needed \(or even a short video\).** 
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/b079435e11a3485d92de4d24267ef674" %}
 
 ## 1 Complete Tutorials A & B to Get Started with the Robot
 
