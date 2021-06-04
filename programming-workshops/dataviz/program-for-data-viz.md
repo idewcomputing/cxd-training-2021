@@ -2,7 +2,7 @@
 
 #### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-data-viz\) and include a link to your Replit code when needed \(or even a short video\).**
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/d4dd354dd67f45d2bdaba6751cb3988b" %}
 
 ## For Background: The Project Guidebook
 
