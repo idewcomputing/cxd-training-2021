@@ -2,7 +2,7 @@
 
 #### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-chatbot\) and include a link to your replit when needed.** 
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/48bd974968894f7cbe40c3f5ba7ed673" %}
 
 **For the chatbot programming workshop we will focus on completing the code-specific portions \(direct links below\) of the warm-up project in the chatbot documentation.** While you may want to review the full instructions of the warm-up project for context, the items below are specific to the programming. As always, don't hesitate using our Slack channel to ask questions or share progress.
 
