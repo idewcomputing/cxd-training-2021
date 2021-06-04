@@ -1,5 +1,5 @@
 ---
-description: A great project for beginner programmers
+description: A great project for beginning programmers
 ---
 
 # Trivia Web App
