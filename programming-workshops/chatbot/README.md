@@ -6,7 +6,7 @@ description: Where human conversation meets computer programming
 
 ## Welcome 👋
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/1f4362cb3c454437ab4b25268c6b047c" %}
 
 ### Programming Workshop Sequence \(June 7 - 11, 2021\)
 
@@ -25,6 +25,8 @@ description: Where human conversation meets computer programming
 {% page-ref page="teacher-insights.md" %}
 
 {% page-ref page="program-a-chatbot.md" %}
+
+{% page-ref page="live-zoom-1.md" %}
 
 {% page-ref page="workshop-deliverables.md" %}
 
