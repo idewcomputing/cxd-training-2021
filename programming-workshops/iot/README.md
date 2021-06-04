@@ -4,6 +4,10 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 
 # Internet of Things \(IoT\)
 
+{% hint style="danger" %}
+### This workshop is postponed until further notice due to IoT electronics boards not available for purchase \(chip supply issues\).
+{% endhint %}
+
 ## Welcome
 
 ![](../../.gitbook/assets/vidcoming.png)
