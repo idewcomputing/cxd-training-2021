@@ -6,7 +6,7 @@ description: A great project for beginner programmers
 
 ## Welcome 👋
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/e6981d7adfed459f87eba53d275c0364" %}
 
 ### Programming Workshop Sequence \(June 7 - 11, 2021\)
 
