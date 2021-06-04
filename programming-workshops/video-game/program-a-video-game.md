@@ -1,6 +1,6 @@
 # Program a Video Game ⏱
 
-#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-video-game\) and include a link to your Arduino code when needed \(or even a short video\).**
+#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-video-game\) and include a link to your Replit code when needed \(or even a short video\).**
 
 ![](../../.gitbook/assets/vidcoming.png)
 
