@@ -2,7 +2,7 @@
 
 #### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-video-game\) and include a link to your Replit code when needed \(or even a short video\).**
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/ec31e31a8ac149e8b9322795575bb780" %}
 
 ## 1 Complete the Hello Phaser Tutorial to Get Started
 
