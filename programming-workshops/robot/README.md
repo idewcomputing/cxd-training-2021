@@ -6,7 +6,7 @@ description: A great programming experience that is truly hands-on
 
 ## Welcome 👋
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/bcbd4745bde34e70962f5b8cdda17a43" %}
 
 ### Programming Workshop Sequence \(June 7 - 11, 2021\)
 
