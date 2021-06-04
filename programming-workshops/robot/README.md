@@ -4,7 +4,7 @@ description: A great programming experience that is truly hands-on
 
 # Wheeled Robot
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 

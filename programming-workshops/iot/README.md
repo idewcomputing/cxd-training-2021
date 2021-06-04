@@ -8,7 +8,7 @@ description: ⚠️ Expect frequent updates as we prepare for the workshop.
 ### This workshop is postponed until further notice due to IoT electronics boards not available for purchase \(chip supply issues\).
 {% endhint %}
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 

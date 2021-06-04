@@ -4,7 +4,7 @@ description: Programming that comes to life on the screen
 
 # Video Game
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 

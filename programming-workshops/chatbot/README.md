@@ -4,7 +4,7 @@ description: Where human conversation meets computer programming
 
 # Chatbot Web App
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 

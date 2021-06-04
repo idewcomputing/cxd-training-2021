@@ -4,7 +4,7 @@ description: A project that connects complex ideas in data with code and visual 
 
 # Data Visualization
 
-## Welcome
+## Welcome 👋
 
 ![](../../.gitbook/assets/vidcoming.png)
 
