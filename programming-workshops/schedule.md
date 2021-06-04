@@ -39,7 +39,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Wheeled Robot, Video Game, Internet of Things Workshops</b>
+      <td style="text-align:left"><b>Wheeled Robot, Video Game, </b><del><b>Internet of Things Workshops</b></del>
       </td>
       <td style="text-align:left">
         <p><b>Monday June 7</b>
@@ -112,12 +112,12 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Internet of Things</b>
+      <td style="text-align:left"><del><b>Internet of Things</b></del>
       </td>
       <td style="text-align:left">
-        <p><b>Thursday June 10</b>
+        <p><del><b>Thursday June 10</b></del>
         </p>
-        <p><b>2:30 pm - 3:30 pm</b>
+        <p><del><b>2:30 pm - 3:30 pm</b></del>
         </p>
       </td>
     </tr>
