@@ -1,6 +1,6 @@
 # Program a Robot ⏱
 
-#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-chatbot\) and include a link to your Arduino code when needed \(or even a short video\).** 
+#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-robot\) and include a link to your Arduino code when needed \(or even a short video\).** 
 
 ![](../../.gitbook/assets/vidcoming.png)
 
