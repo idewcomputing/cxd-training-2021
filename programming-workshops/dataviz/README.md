@@ -1,5 +1,5 @@
 ---
-description: ⚠️ Expect frequent updates as we prepare for the workshop.
+description: A project that connects complex ideas in data with code and visual perception
 ---
 
 # Data Visualization

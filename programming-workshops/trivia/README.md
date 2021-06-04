@@ -1,5 +1,5 @@
 ---
-description: ⚠️ Expect frequent updates as we prepare for the workshop.
+description: A great project for beginner programmers
 ---
 
 # Trivia Web App

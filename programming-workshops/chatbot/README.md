@@ -1,5 +1,5 @@
 ---
-description: ⚠️ Expect frequent updates as we prepare for the workshop.
+description: Where human conversation meets computer programming
 ---
 
 # Chatbot Web App

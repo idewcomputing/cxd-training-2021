@@ -1,5 +1,5 @@
 ---
-description: ⚠️ Expect frequent updates as we prepare for the workshop.
+description: Programming that comes to life on the screen
 ---
 
 # Video Game

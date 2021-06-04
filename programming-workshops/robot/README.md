@@ -1,5 +1,5 @@
 ---
-description: ⚠️ Expect frequent updates as we prepare for the workshop.
+description: A great programming experience that is truly hands-on
 ---
 
 # Wheeled Robot
