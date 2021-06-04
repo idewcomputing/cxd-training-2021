@@ -1,6 +1,6 @@
 # Program a Chatbot ⏱
 
-## Introduction 
+#### **👉 As you work through the following activities don't hesitate posting questions on Slack \(\#ws-programming-chatbot\) and include a link to your replit when needed.** 
 
 ![](../../.gitbook/assets/vidcoming.png)
 
