@@ -6,7 +6,7 @@ description: A project that connects complex ideas in data with code and visual 
 
 ## Welcome 👋
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/b95e10f04eaf49d1878ecbbe2f7fa737" %}
 
 ### Programming Workshop Sequence \(June 7 - 11, 2021\)
 
