@@ -6,7 +6,7 @@ description: Programming that comes to life on the screen
 
 ## Welcome 👋
 
-![](../../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/7128c1a9ea234eae931ad37625e4104a" %}
 
 ### Programming Workshop Agenda \(June 7 - 11, 2021\)
 
