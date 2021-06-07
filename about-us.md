@@ -48,5 +48,17 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 ## SoIC Student and Graduate Mentors
 
-### Abby Markel Dylan Puckett Miguel Olivares Rebekah Holcomb Sahar Abdullah
+### Sahar Abdullah
+
+### Rebekah Holcomb
+
+### Abby Markel
+
+### Miguel Olivares
+
+### Dylan Puckett
+
+### 
+
+### 
 
