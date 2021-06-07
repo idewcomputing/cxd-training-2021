@@ -38,8 +38,6 @@ Dr. Mathew Palakal _\*\*_is a professor of Informatics in the IU School of Infor
 
 Dylan is a computer science teacher at the **McKenzie Center for Innovation & Technology** at the Metropolitan School District of Lawrence Township in Indianapolis.
 
-{% embed url="https://soic.iupui.edu/people/travis-faas/" %}
-
 ### Angela Jones
 
 Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis and an experienced Computing by Design teacher as part of the iDEW program.
