@@ -2,6 +2,14 @@
 
 Here you will find various insights from teachers and programmers on how to approach teaching in computer science and a project-based perspective. Borrow, adapt and curate the ideas presented to help you develop your unique approach. **Don't hesitate asking question in Slack on any of these ideas.**
 
+## Dylan Follett
+
+Dylan is a computer science teacher at the **McKenzie Center for Innovation & Technology** at the Metropolitan School District of Lawrence Township in Indianapolis.
+
+### Programming with the Arduino Desktop
+
+{% embed url="https://youtu.be/t8E8WMDrETw" %}
+
 ## Angela Jones
 
 Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis and an experienced Computing by Design teacher as part of the iDEW program.
