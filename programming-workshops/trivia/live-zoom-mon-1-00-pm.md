@@ -7,8 +7,7 @@
 * **Review of Workshop Format and Sequence**
 * **Key Pointers**
   * **Sharing Code via Slack**
-  * **Searching the Internet for Code Help**
-  * **Online Tutorials and Other Resources**
+  * **Feel Free to Use Video Too**
   * **Look for Patterns and Analogies You Can Identify With**
 * **Information on** _**School of Informatics and Computing**_ **Degrees**
 * **Open Discussion and Wrap Up**
