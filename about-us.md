@@ -30,11 +30,13 @@ Dr. Mathew Palakal _\*\*_is a professor of Informatics in the IU School of Infor
 
 {% embed url="https://www.herronhighschool.org/person/matthew-baron/" %}
 
+### Travis Faas
+
+{% embed url="https://soic.iupui.edu/people/travis-faas/" %}
+
 ### Dylan Follett
 
 Dylan is a computer science teacher at the **McKenzie Center for Innovation & Technology** at the Metropolitan School District of Lawrence Township in Indianapolis.
-
-### Travis Faas
 
 {% embed url="https://soic.iupui.edu/people/travis-faas/" %}
 
@@ -57,8 +59,4 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 ### Miguel Olivares
 
 ### Dylan Puckett
-
-### 
-
-### 
 
