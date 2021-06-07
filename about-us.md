@@ -46,5 +46,7 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://et.iupui.edu/people/lumhemmi" %}
 
+## SoIC Student and Graduate Mentors
 
+### Abby Markel Dylan Puckett Miguel Olivares Rebekah Holcomb Sahar Abdullah
 
