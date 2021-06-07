@@ -26,5 +26,13 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" caption="In this video Luke provides guidance on how to manage students as they work on projects." %}
 
+## Matthew Baron
+
+{% embed url="https://www.herronhighschool.org/person/matthew-baron/" %}
+
+### On Scaffolding and Scrum
+
+{% embed url="https://drive.google.com/file/d/10Qx6vwnzwHISAnDxYdF0WpHk97IBDtl0/view?usp=sharing" %}
+
 
 

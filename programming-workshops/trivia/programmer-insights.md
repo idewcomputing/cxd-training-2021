@@ -14,6 +14,18 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://www.loom.com/share/f8075f9f32954594ad792327a879140f" %}
 
+## Matthew Baron
+
+{% embed url="https://www.herronhighschool.org/person/matthew-baron/" %}
+
+### On Programming and an Approach to the Trivia Project 
+
+{% embed url="https://drive.google.com/file/d/1PcAxYv7FVBBW2hlQ7lScQJY2fREdFbVC/view?usp=sharing" %}
+
+### On Scaffolding and Scrum
+
+{% embed url="https://drive.google.com/file/d/10Qx6vwnzwHISAnDxYdF0WpHk97IBDtl0/view?usp=sharing" %}
+
 ## Luke Jones
 
 {% embed url="https://et.iupui.edu/people/lumhemmi" %}
