@@ -30,5 +30,11 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://drive.google.com/file/d/10Qx6vwnzwHISAnDxYdF0WpHk97IBDtl0/view?usp=sharing" %}
 
+## Travis Faas
 
+{% embed url="https://soic.iupui.edu/people/travis-faas/" %}
+
+### On Practical Approaches to Programming for Beginners
+
+{% embed url="https://drive.google.com/file/d/1xTkYp5\_FGcBUfRRqJ-z7rzL7MkGuj4xD/view?usp=sharing" %}
 

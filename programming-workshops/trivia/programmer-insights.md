@@ -38,5 +38,15 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://drive.google.com/file/d/1dDl1nJORhiI6uS4ZiYa5AJwr8imRrwAD/view?usp=sharing" caption="In this video Luke provides guidance on how to manage students as they work on projects." %}
 
+## Travis Faas
+
+{% embed url="https://soic.iupui.edu/people/travis-faas/" %}
+
+### On Practical Approaches to Programming for Beginners
+
+{% embed url="https://drive.google.com/file/d/1xTkYp5\_FGcBUfRRqJ-z7rzL7MkGuj4xD/view?usp=sharing" %}
+
+
+
 
 

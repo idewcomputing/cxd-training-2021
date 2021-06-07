@@ -2,6 +2,20 @@
 
 Here you will find various insights from teachers and programmers on how to approach teaching in computer science and a project-based perspective. Borrow, adapt and curate the ideas presented to help you develop your unique approach. **Don't hesitate asking question in Slack on any of these ideas.**
 
+## Travis Faas
+
+{% embed url="https://soic.iupui.edu/people/travis-faas/" %}
+
+### On Practical Approaches to Programming for Beginners
+
+{% embed url="https://drive.google.com/file/d/1xTkYp5\_FGcBUfRRqJ-z7rzL7MkGuj4xD/view?usp=sharing" %}
+
+### On Phaser and Game Development
+
+{% embed url="https://drive.google.com/file/d/1FpcXIj1RYGn\_ljrcVxdJEnqfpKPVXwS8/view?usp=sharing" %}
+
+
+
 ## Angela Jones
 
 Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis and an experienced Computing by Design teacher as part of the iDEW program.
