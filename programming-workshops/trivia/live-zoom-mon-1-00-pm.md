@@ -2,8 +2,9 @@
 
 ## Agenda \(1 hour\)
 
-* **Welcome and Introductions**
+* **Welcome**
 * **Quick Survey**
+* **Introductions**
 * **Review of Workshop Format and Sequence**
 * **Key Pointers**
   * **Sharing Code via Slack**
