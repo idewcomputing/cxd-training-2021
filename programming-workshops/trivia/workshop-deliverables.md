@@ -17,6 +17,8 @@ For the programming workshops we simply request that you submit the following tw
      * Will you supplement with any CS unplugged activities?
      * Will you create any custom programming exercises yourself?
 
+**Submit using the link below...**
+
 {% embed url="https://launchboard.app/s/eP35lSmZwaUd4L9Vgpoj" %}
 
 {% hint style="info" %}
