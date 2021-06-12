@@ -53,7 +53,7 @@ Each workshop cohort has a final deliverable, due by **June 28,** consisting of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Sharing Summative Classroom Plan Progress</b>
+      <td style="text-align:left"><b>Sharing Progress and Continuing to Module 4</b>
       </td>
       <td style="text-align:left">
         <p><b>Thursday June 24</b>
@@ -106,7 +106,7 @@ Each workshop cohort has a final deliverable, due by **June 28,** consisting of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Sharing Summative Classroom Plan Progress</b>
+      <td style="text-align:left"><b>Sharing Progress and Continuing to Module 4</b>
       </td>
       <td style="text-align:left">
         <p><b>Thursday June 24</b>
@@ -159,7 +159,7 @@ Each workshop cohort has a final deliverable, due by **June 28,** consisting of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Sharing Summative Classroom Plan Progress</b>
+      <td style="text-align:left"><b>Sharing Progress and Continuing to Module 4</b>
       </td>
       <td style="text-align:left">
         <p><b>Thursday June 24</b>
