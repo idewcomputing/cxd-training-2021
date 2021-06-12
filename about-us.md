@@ -1,3 +1,7 @@
+---
+description: The Computing by Design Workshop Team
+---
+
 # About Us
 
 ## **Jim Lyst**
