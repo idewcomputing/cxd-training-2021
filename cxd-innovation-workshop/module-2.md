@@ -30,7 +30,7 @@
 
 ## **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
 
-#### Meet stakeholders and co-develop an accurate narrative about the problem and proposed solution.
+#### Meet stakeholders and co-develop an accurate narrative about the problem and proposed solution. Define a compelling value proposition and the intended features of the solution.
 
 ![](../.gitbook/assets/vidcoming.png)
 
