@@ -6,7 +6,9 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
+
+{% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
 ## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 

@@ -22,7 +22,7 @@ For this workshop we will go through the **three phases of the** [**standard pro
 
 Six years after introducing the Computing by Design approach, the skills trend is still evident from research, like the Future of Jobs Report 2020 from the World Economic Forum.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 **Source: The Future of Jobs Report, 20 October 2020, World Economic Forum**  
 [https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
@@ -49,7 +49,7 @@ CxD projects allow students to engage technological development using an interdi
 {% tab title="Standard Project Outline" %}
 **Each CxD project involves a sequence of three phases, each having its own driving question to help guide students towards solving the larger challenge.** The the listed tasks can be applied generally across different problem domains or technologies, but each will be tailored for the particular problem context. Each phase culminates in a presentation of a team's results for that phase.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### 1. DEFINE PROBLEM & VALUE PROPOSITION
 
@@ -97,15 +97,15 @@ _**Driving Question:**_  **How effective is your solution and how will you impro
 {% tab title="Anatomy of a Problem" %}
 At the heart of every **innovation** is a problem that must be solved for **stakeholders** that provides a **clear improvement** over current practices.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 {% endtab %}
 
 {% tab title="The Innovation Matrix" %}
 Innovators must be able to **think deeply** and shift gears between **analytical, creative, and decisive** thinking. Innovators must be able to act individually and cooperatively to succeed.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 {% embed url="https://docs.google.com/drawings/d/1PCb3RhTuTDm4hUo5AfjEK0Uq7-pqYKxLk5Lrtjv5IZ8/edit?usp=sharing" %}
 {% endtab %}
