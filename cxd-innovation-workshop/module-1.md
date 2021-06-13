@@ -26,6 +26,8 @@ Six years after introducing the Computing by Design approach, the skills trend i
 
 **Source: The Future of Jobs Report, 20 October 2020, World Economic Forum**  
 [https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
+
+{% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}
 {% endtab %}
 
 {% tab title="Three Threads of an Innovator\'s Work" %}
@@ -117,6 +119,8 @@ Innovators must be able to **think deeply** and shift gears between **analytical
 {% endtab %}
 
 {% tab title="Community in the Classroom" %}
+The Computing by Design project framework provides several distinct opportunities for students to engage the broader community. Throughout the workshop consider how you can facilitate activities the bring students and the community together in authentic ways.
+
 {% embed url="https://www.edutopia.org/practice/community-partners-making-student-learning-relevant" %}
 {% endtab %}
 {% endtabs %}
