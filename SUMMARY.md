@@ -66,6 +66,7 @@
 * [Module 2 - Project Phase One](cxd-innovation-workshop/module-2.md)
 * [Module 3 - Project Phase Two](cxd-innovation-workshop/module-3.md)
 * [Module 4 - Project Phase Three](cxd-innovation-workshop/module-4.md)
+* [Workshop Deliverable](cxd-innovation-workshop/workshop-deliverable.md)
 
 ## ••••••••••••••••••••••••••••••••••••••••••              PBLWorks 101 Workshop
 
