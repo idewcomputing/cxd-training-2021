@@ -13,6 +13,8 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 ###  **✓ Prototypes │ ✓ Prototype Evaluations**
 
 #### Generate several distinct prototypes that represent creative perspectives on the solution details. Evaluate the prototypes internally with the team and with stakeholders to verify the results.

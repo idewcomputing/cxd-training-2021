@@ -13,6 +13,8 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
+![](../.gitbook/assets/image%20%284%29.png)
+
 ### **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
 #### Analyze and describe the problem context and stakeholders. Understand the available resources and technology that may be part of your solution.

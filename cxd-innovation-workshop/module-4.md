@@ -13,6 +13,8 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
+![](../.gitbook/assets/image%20%282%29.png)
+
 ### **✓ Pilot Evaluation │ ✓ Final Release Development**
 
 #### Further evaluate the pilot release with stakeholders. Review the evaluation results and prioritize the fixes and improvements.

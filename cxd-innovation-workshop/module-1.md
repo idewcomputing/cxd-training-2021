@@ -21,7 +21,7 @@
 
 Six years after introducing the Computing by Design approach, the skills trend is still evident from research, like the Future of Jobs Report 2020 from the World Economic Forum.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 **Source: The Future of Jobs Report, 20 October 2020, World Economic Forum**  
 [https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
@@ -34,15 +34,19 @@ Six years after introducing the Computing by Design approach, the skills trend i
 2. **Collaboration Skills** - Students must learn to contribute to solutions in teams. An individual's technical capacity can flourish or flail depending on team dynamics. Supporting authentic collaboration at schools is a focus of the Computing by Design framework.
 3. **Broad Domain Awareness** - Students must maintain a clear awareness of careers and technological trends in order to identify opportunities and interests in a changing world. We encourage students to create reports on trends and careers in technology, as well as getting first-hand exposure to professionals through in-class visitors and field trips to industry.  
 
-Computing by Design \(CxD\) is a framework for _project-based learning_, providing student teams direction and support for solving problems in a particular context. Each project complements parallel activities for students to build technical expertise and explore related technical trends.
-
-CxD projects allow students to engage technological development using an interdisciplinary perspective. Students develop skills and envision their unique voice in producing novel solutions, whether through **code, data, or interaction design**. Each project directs students to consider the larger context of development, thoughtfully creating systems that meet valued goals.
+**Computing by Design \(CxD\) is a framework for** _**project-based learning**_, providing student teams direction and support for solving problems in a particular context. Each project complements parallel activities for students to build technical expertise and explore related technical trends.
 
 ![](../.gitbook/assets/pblvs.png)
+
+CxD projects allow students to engage technological development using an interdisciplinary perspective. **Students develop skills and envision their unique voice** in producing novel solutions, whether through **code, data, or interaction design**. Each project directs students to consider the larger context of development, thoughtfully creating systems that meet valued goals.
+
+![](../.gitbook/assets/image.png)
 {% endtab %}
 
 {% tab title="Standard Project Outline" %}
 **Each CxD project involves a sequence of three phases, each having its own driving question to help guide students towards solving the larger challenge.** The the listed tasks can be applied generally across different problem domains or technologies, but each will be tailored for the particular problem context. Each phase culminates in a presentation of a team's results for that phase.
+
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### 1. DEFINE PROBLEM & VALUE PROPOSITION
 
@@ -88,19 +92,27 @@ _**Driving Question:**_  **How effective is your solution and how will you impro
 
 {% tabs %}
 {% tab title="Anatomy of a Problem" %}
+At the heart of every **innovation** is a problem that must be solved for **stakeholders** that provides a **clear improvement** over current practices.
 
+![](../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="The Innovation Matrix" %}
+Innovators must be able to **think deeply** and shift gears between **analytical, creative, and decisive** thinking. Innovators must be able to act individually and cooperatively to succeed.
 
+![](../.gitbook/assets/image%20%286%29.png)
+
+![](../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
 {% tab title="Becoming Agile" %}
+{% embed url="https://tophat.com/blog/agile-learning/" %}
 
+{% embed url="https://docs.google.com/drawings/d/14cGou0\_uaHHeEPjNqV4QlyJJXNVczbnMSKB6F3HK7Rk/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Community in the Classroom" %}
-
+{% embed url="https://www.edutopia.org/practice/community-partners-making-student-learning-relevant" %}
 {% endtab %}
 {% endtabs %}
 
