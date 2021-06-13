@@ -104,6 +104,8 @@ Innovators must be able to **think deeply** and shift gears between **analytical
 ![](../.gitbook/assets/image%20%286%29.png)
 
 ![](../.gitbook/assets/image%20%283%29.png)
+
+{% embed url="https://docs.google.com/drawings/d/1PCb3RhTuTDm4hUo5AfjEK0Uq7-pqYKxLk5Lrtjv5IZ8/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Becoming Agile" %}
