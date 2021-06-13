@@ -8,7 +8,7 @@
 
 For this workshop we will go through the **three phases of the** [**standard project outline**](https://docs.idew.org/the-cxd-framework/standard-project-outline) while addressing the similarities and differences among the **six detailed projects offered**. We will discuss how you can adapt the provided project instructions for your context or even substitute another technology within the project framework.
 
-### Identify one \(or more\) of the six Computing by Design projects that you will use to follow along in this workshop. 👇👇👇
+### Identify one \(or more\) of the six Computing by Design projects that you will use to follow along in this workshop. Access to each of the projects can be found on the page linked below. 👇👇👇
 
 {% embed url="https://docs.idew.org/the-cxd-framework/" %}
 
