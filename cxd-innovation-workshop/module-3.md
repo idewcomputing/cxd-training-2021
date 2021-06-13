@@ -6,7 +6,12 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
+
+{% embed url="https://docs.google.com/drawings/d/16kihbiHeui\_\_byOebXS6WQppA46Mk\_\_2UZUqFksY6kY/edit?usp=sharing" %}
+
+  
+👉 Check the [google drive resources](https://app.gitbook.com/@cxd/s/cxd2021/~/drafts/-Mc6CcVPhzSbz-yz1ZuI/cxd-innovation-workshop/resources/~/settings/customization) for canvas templates you may want to use.
 
 ##  **✓ Prototypes │ ✓ Prototype Evaluations**
 
