@@ -13,43 +13,31 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Prototypes**
+###  **✓ Prototypes │ ✓ Prototype Evaluations**
 
-#### Generate several distinct prototypes that represent creative perspectives on the solution details.
-
-![](../.gitbook/assets/vidcoming.png)
-
-## **Prototype Evaluations**
-
-#### Evaluate the prototypes internally with the team and with stakeholders to verify the results.
+#### Generate several distinct prototypes that represent creative perspectives on the solution details. Evaluate the prototypes internally with the team and with stakeholders to verify the results.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Features Map & System Logic**
+### \*\*\*\*
 
-#### Determine the solution specifications, logic, and interactions.
+### **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
 
-![](../.gitbook/assets/vidcoming.png)
-
-### **Development Plan & Testing Milestones**
-
-#### Prioritize development tasks and determine a plan to incrementally test the solution.
+#### Determine the solution specifications, logic, and interactions. Prioritize development tasks and determine a plan to incrementally test the solution.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Pilot Development & Testing**
+#### 
 
-#### Execute the plan methodically with frequent team check-ins.
+### **✓ Pilot Development & Testing  │ ✓ Plan for Launch & Promotion**
 
-![](../.gitbook/assets/vidcoming.png)
-
-### **Plan for Launch & Promotion**
-
-#### Determine the key actions to launch your solution with high impact.
+#### Execute the plan methodically with frequent team check-ins. Determine the key actions to launch your solution with high impact.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **PILOT DEMONSTRATION**
+#### 
+
+### **★ PILOT DEMONSTRATION**
 
 #### Demonstrate the pilot development with promotional plan and collect feedback from peers.
 

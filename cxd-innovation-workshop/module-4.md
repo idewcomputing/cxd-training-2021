@@ -13,43 +13,31 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Pilot Evaluation**
+### **✓ Pilot Evaluation │ ✓ Final Release Development**
 
-#### Further evaluate the pilot release with stakeholders.
-
-![](../.gitbook/assets/vidcoming.png)
-
-### **Final Release Development**
-
-#### Review the evaluation results and prioritize the fixes and improvements.
+#### Further evaluate the pilot release with stakeholders. Review the evaluation results and prioritize the fixes and improvements.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Final Release Launch and Promotion**
+#### 
 
-#### Launch the solution with a clear call to action through your promotion.
+### **✓ Final Release Launch and Promotion │ ✓ Poster Design**
 
-![](../.gitbook/assets/vidcoming.png)
-
-### **Poster Design**
-
-#### Present the best artifacts to share the development story.
+#### Launch the solution with a clear call to action through your promotion. Present the best artifacts to share the development story.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Individual Reflections** 
+#### 
 
-#### Reflect on the experience and the impact on your future.
+###  **✓ Individual Reflections** **│ ✓ Presentation Plan & Practice**
 
-![](../.gitbook/assets/vidcoming.png)
-
-### **Presentation Plan & Practice**
-
-#### Take the time to know your audience and delivery plan.
+#### Reflect on the experience and the impact on your future. Take the time to know your audience and delivery plan.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **FINAL DEMONSTRATION & PRESENTATION**
+### \*\*\*\*
+
+### **★ FINAL DEMONSTRATION & PRESENTATION**
 
 #### This is your time to show everybody what you have done and share your story.
 

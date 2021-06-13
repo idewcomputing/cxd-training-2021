@@ -13,43 +13,31 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Problem Definition & Importance**
+### **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
-#### Analyze and describe the problem context and stakeholders.
-
-![](../.gitbook/assets/vidcoming.png)
-
-### **Technology Experimentation & Summary**
-
-#### Understand the available resources and technology that may be part of your solution.
+#### Analyze and describe the problem context and stakeholders. Understand the available resources and technology that may be part of your solution.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Initial Ideas & Evaluation**
+#### 
 
-#### Consider a diverse set of solutions and evaluate each for potential.
+### **✓ Initial Ideas & Evaluation │ ✓ Existing Solution Analysis**
 
-![](../.gitbook/assets/vidcoming.png)
-
-### **Existing Solution Analysis**
-
-#### Analyze and evaluate existing solutions and borrow or synthesize ideas.
+#### Consider a diverse set of solutions and evaluate each for potential. Analyze and evaluate existing solutions and borrow or synthesize ideas.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Stakeholder Profiles & Narratives**
+#### 
+
+### **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
 
 #### Meet stakeholders and co-develop an accurate narrative about the problem and proposed solution.
 
 ![](../.gitbook/assets/vidcoming.png)
 
-### **Value Proposition & Potential Features Map**
+### \*\*\*\*
 
-#### Define a compelling value proposition and the intended features of the solution.
-
-![](../.gitbook/assets/vidcoming.png)
-
-### **PROPOSAL PRESENTATION**
+### **★ PROPOSAL PRESENTATION**
 
 #### Present a succinct proposal and collect further feedback to inform the details of your design.
 
