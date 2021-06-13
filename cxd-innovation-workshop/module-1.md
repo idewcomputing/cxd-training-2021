@@ -1,4 +1,4 @@
-# Module 1 - Intro
+# Module 1 - Introduction
 
 ## Welcome 👋
 
