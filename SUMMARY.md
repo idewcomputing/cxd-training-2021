@@ -62,10 +62,10 @@
 
 * [✻ Prepare a Full CS Experience](cxd-innovation-workshop/full-experience.md)
 * [✻ Schedule](cxd-innovation-workshop/schedule.md)
-* [Module 1](cxd-innovation-workshop/module-1.md)
-* [Module 2](cxd-innovation-workshop/module-2.md)
-* [Module 3](cxd-innovation-workshop/module-3.md)
-* [Module 4](cxd-innovation-workshop/module-4.md)
+* [Module 1 - Intro](cxd-innovation-workshop/module-1.md)
+* [Module 2 - Project Phase One](cxd-innovation-workshop/module-2.md)
+* [Module 3 - Project Phase Two](cxd-innovation-workshop/module-3.md)
+* [Module 4 - Project Phase Three](cxd-innovation-workshop/module-4.md)
 
 ## ••••••••••••••••••••••••••••••••••••••••••              PBLWorks 101 Workshop
 

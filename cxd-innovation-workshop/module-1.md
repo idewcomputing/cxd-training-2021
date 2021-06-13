@@ -1,4 +1,4 @@
-# Module 1
+# Module 1 - Intro
 
 {% hint style="info" %}
 **Updates to the 2021 workshop pages are ongoing as we prepare for the 2021 summer series. In the meantime, take a look at these online materials.**
@@ -10,6 +10,14 @@
 ## Welcome 👋
 
 ![](../.gitbook/assets/vidcoming.png)
+
+**Computing by Design** \(CxD\) is a collection of project guidebooks for use in middle school and high school computer science courses. In each project, student teams collaboratively design and build a solution to a problem within a particular context using a specific technology  — from chatbots to data visualizations.
+
+For this workshop we will go through the **three phases of the** [**standard project outline**](https://docs.idew.org/the-cxd-framework/standard-project-outline) while addressing the similarities and differences among the **six detailed projects offered**. We will discuss how you can adapt the provided project instructions for your context or even substitute another technology within the project framework.
+
+### Identify one \(or more\) of the six Computing by Design projects that you will use to follow this workshop. 👇
+
+{% embed url="https://docs.idew.org/the-cxd-framework/" %}
 
 ## The Computing by Design Approach
 

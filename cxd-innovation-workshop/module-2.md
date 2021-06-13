@@ -1,4 +1,4 @@
-# Module 2
+# Module 2 - Project Phase One
 
 {% hint style="info" %}
 **Updates to the 2021 workshop pages are ongoing as we prepare for the 2021 summer series. In the meantime, take a look at these online materials.**
@@ -15,7 +15,7 @@
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-### **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
+## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
 #### Analyze and describe the problem context and stakeholders. Understand the available resources and technology that may be part of your solution.
 
@@ -23,7 +23,7 @@
 
 #### 
 
-### **✓ Initial Ideas & Evaluation │ ✓ Existing Solution Analysis**
+## **✓ Initial Ideas & Evaluation │ ✓ Existing Solution Analysis**
 
 #### Consider a diverse set of solutions and evaluate each for potential. Analyze and evaluate existing solutions and borrow or synthesize ideas.
 
@@ -31,7 +31,7 @@
 
 #### 
 
-### **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
+## **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
 
 #### Meet stakeholders and co-develop an accurate narrative about the problem and proposed solution.
 
@@ -39,7 +39,7 @@
 
 ### \*\*\*\*
 
-### **★ PROPOSAL PRESENTATION**
+## **★ PROPOSAL PRESENTATION**
 
 #### Present a succinct proposal and collect further feedback to inform the details of your design.
 

@@ -1,4 +1,4 @@
-# Module 3
+# Module 3 - Project Phase Two
 
 {% hint style="info" %}
 **Updates to the 2021 workshop pages are ongoing as we prepare for the 2021 summer series. In the meantime, take a look at these online materials.**
@@ -15,7 +15,7 @@
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-###  **✓ Prototypes │ ✓ Prototype Evaluations**
+##  **✓ Prototypes │ ✓ Prototype Evaluations**
 
 #### Generate several distinct prototypes that represent creative perspectives on the solution details. Evaluate the prototypes internally with the team and with stakeholders to verify the results.
 
@@ -23,7 +23,7 @@
 
 ### \*\*\*\*
 
-### **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
+## **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
 
 #### Determine the solution specifications, logic, and interactions. Prioritize development tasks and determine a plan to incrementally test the solution.
 
@@ -31,7 +31,7 @@
 
 #### 
 
-### **✓ Pilot Development & Testing  │ ✓ Plan for Launch & Promotion**
+## **✓ Pilot Development & Testing  │ ✓ Plan for Launch & Promotion**
 
 #### Execute the plan methodically with frequent team check-ins. Determine the key actions to launch your solution with high impact.
 
@@ -39,7 +39,7 @@
 
 #### 
 
-### **★ PILOT DEMONSTRATION**
+## **★ PILOT DEMONSTRATION**
 
 #### Demonstrate the pilot development with promotional plan and collect feedback from peers.
 

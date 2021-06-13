@@ -1,4 +1,4 @@
-# Module 4
+# Module 4 - Project Phase Three
 
 {% hint style="info" %}
 **Updates to the 2021 workshop pages are ongoing as we prepare for the 2021 summer series. In the meantime, take a look at these online materials.**
@@ -15,7 +15,7 @@
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-### **✓ Pilot Evaluation │ ✓ Final Release Development**
+## **✓ Pilot Evaluation │ ✓ Final Release Development**
 
 #### Further evaluate the pilot release with stakeholders. Review the evaluation results and prioritize the fixes and improvements.
 
@@ -23,7 +23,7 @@
 
 #### 
 
-### **✓ Final Release Launch and Promotion │ ✓ Poster Design**
+## **✓ Final Release Launch and Promotion │ ✓ Poster Design**
 
 #### Launch the solution with a clear call to action through your promotion. Present the best artifacts to share the development story.
 
@@ -31,7 +31,7 @@
 
 #### 
 
-###  **✓ Individual Reflections** **│ ✓ Presentation Plan & Practice**
+##  **✓ Individual Reflections** **│ ✓ Presentation Plan & Practice**
 
 #### Reflect on the experience and the impact on your future. Take the time to know your audience and delivery plan.
 
@@ -39,7 +39,7 @@
 
 ### \*\*\*\*
 
-### **★ FINAL DEMONSTRATION & PRESENTATION**
+## **★ FINAL DEMONSTRATION & PRESENTATION**
 
 #### This is your time to show everybody what you have done and share your story.
 
