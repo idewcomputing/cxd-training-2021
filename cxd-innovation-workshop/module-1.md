@@ -112,6 +112,8 @@ Innovators must be able to **think deeply** and shift gears between **analytical
 {% embed url="https://tophat.com/blog/agile-learning/" %}
 
 {% embed url="https://docs.google.com/drawings/d/14cGou0\_uaHHeEPjNqV4QlyJJXNVczbnMSKB6F3HK7Rk/edit?usp=sharing" %}
+
+**Other resources to consider:** [https://trello.com ](https://trello.com/en-US), [https://miro.com](https://miro.com/)
 {% endtab %}
 
 {% tab title="Community in the Classroom" %}
