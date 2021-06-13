@@ -10,6 +10,8 @@
 
 {% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
+👉 Check the [google drive resources](resources.md) for canvas templates you may want to use.
+
 ## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
 #### Analyze and describe the problem context and stakeholders. Understand the available resources and technology that may be part of your solution.
