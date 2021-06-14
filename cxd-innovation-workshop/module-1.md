@@ -14,7 +14,7 @@ For this workshop we will go through the **three phases of the** [**standard pro
 
 ## The Computing by Design Approach
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/0c9f07df8b8541959b9d2dd14d346de4" %}
 
 {% tabs %}
 {% tab title="Top Skills" %}
