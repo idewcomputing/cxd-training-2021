@@ -10,6 +10,10 @@ description: >-
 
 Each workshop cohort has a final deliverable, due by **June 28,** consisting of a sampling of example student deliverables and a plan outline for facilitating a project in the classroom.
 
+## Slack Workspace
+
+We will use the `#ws-innovation` channel for communication.
+
 ## Live Zoom Sessions
 
 ### Cohort 1
