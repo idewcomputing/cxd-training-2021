@@ -1,6 +1,6 @@
 ---
 description: >-
-  Online Workshop | Two Weeks - June 14 - 23 | Approximately 1-2 hours a day,
+  Online Workshop | Two Weeks - June 14 - 25 | Approximately 1-2 hours a day,
   mostly on your schedule
 ---
 
