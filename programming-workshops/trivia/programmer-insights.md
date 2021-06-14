@@ -14,6 +14,14 @@ Angela is the CT Instructional Coach at Arsenal Tech High School in Indianapolis
 
 {% embed url="https://www.loom.com/share/f8075f9f32954594ad792327a879140f" %}
 
+## Tinya Fisher
+
+### Trivia App - Crossing the Finish Line
+
+{% embed url="https://drive.google.com/file/d/1SVYHcTpF86DNlseFTFVJ09RBr-Hplppc/view?usp=sharing" %}
+
+
+
 ## Matthew Baron
 
 {% embed url="https://www.herronhighschool.org/person/matthew-baron/" %}
