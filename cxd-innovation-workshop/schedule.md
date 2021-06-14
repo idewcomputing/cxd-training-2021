@@ -16,6 +16,8 @@ We will use the `#ws-innovation` channel for communication.
 
 ## Live Zoom Sessions
 
+We will have four one-hour Zoom sessions over our two-week workshop. Choose one of the three cohort schedules that works best for you. 
+
 ### Cohort 1
 
 <table>
