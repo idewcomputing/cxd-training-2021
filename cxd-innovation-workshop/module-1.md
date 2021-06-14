@@ -2,7 +2,7 @@
 
 ## Welcome 👋
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/c188d4b4c9144c63a61212c48a0cfe06" %}
 
 **Computing by Design** \(CxD\) is a collection of project guidebooks for use in middle school and high school computer science courses. In each project, student teams collaboratively design and build a solution to a problem within a particular context using a specific technology  — from chatbots to data visualizations.
 
