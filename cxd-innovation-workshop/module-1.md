@@ -28,6 +28,8 @@ Six years after introducing the Computing by Design approach, the skills trend i
 [https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
 
 {% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}
+
+{% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
 {% endtab %}
 
 {% tab title="Three Threads of an Innovator\'s Work" %}
