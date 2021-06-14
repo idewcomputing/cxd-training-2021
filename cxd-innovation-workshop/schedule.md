@@ -8,7 +8,7 @@ description: >-
 
 ## Workshop Final Deliverable
 
-Each workshop cohort has a ****[**final deliverable**](workshop-deliverable.md), due by **June 28,** consisting of a sampling of example student deliverables and a plan outline for facilitating a project in the classroom.
+Each workshop cohort has a ****[**final deliverable**](workshop-deliverable.md), due by **July 12,** consisting of a sampling of example student deliverables and a plan outline for facilitating a project in the classroom.
 
 ## Slack Workspace
 
