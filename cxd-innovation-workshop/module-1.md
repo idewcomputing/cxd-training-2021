@@ -29,6 +29,8 @@ Six years after introducing the Computing by Design approach, the skills trend i
 
 {% embed url="https://docs.idew.org/the-cxd-framework/student-profile" %}
 
+Review the computer science standards and become familiar with the organization. Consider how will you track your coverage of them in the classroom.
+
 {% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
 {% endtab %}
 
