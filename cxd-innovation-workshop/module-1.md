@@ -95,7 +95,7 @@ _**Driving Question:**_  **How effective is your solution and how will you impro
 
 ## Innovation in the Classroom
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/fdb4f1773ad2497490c709d04442c642" %}
 
 {% tabs %}
 {% tab title="Anatomy of a Problem" %}
