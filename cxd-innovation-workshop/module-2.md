@@ -26,6 +26,10 @@ How accessible are stakeholders and the problem context to the students?
 How will you facilitate the tutorials or experiments with the programming and technology?  
 How proficient will students need to be with the technology to begin defining the problem and ideas for solving it?
 
+**Which CS standards are addressed in these activities?**
+
+{% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
+
 ## **✓ Initial Ideas & Evaluation │ ✓ Existing Solution Analysis**
 
 ![](../.gitbook/assets/vidcoming.png)
@@ -37,6 +41,10 @@ How much time should you set aside for ideation? Will you give student's individ
 ### Identify the activities that help students analyze and evaluate existing solutions and then borrow or synthesize ideas.
 
 Will you have students do a competitive analysis or a slightly different approach? How might you discuss the incremental process of innovation that happens through competitive markets or published research?
+
+**Which CS standards are addressed in these activities?**
+
+{% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
 
 ## **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
 
@@ -50,9 +58,21 @@ How accessible are stakeholders and the problem context to the students? What me
 
 How much detail will you expect in student proposals? How might you discuss the provisional nature of concept proposals, in that they can change as they learn more?
 
+**Which CS standards are addressed in these activities?**
+
+{% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
+
 ## **★ PROPOSAL PRESENTATION**
 
 ![](../.gitbook/assets/vidcoming.png)
 
+{% hint style="info" %}
+### We recommend that you complete an example proposal as one of the three artifacts for the [workshop final deliverable](workshop-deliverable.md).
+{% endhint %}
+
 **What is your plan to help students present a succinct proposal and collect further feedback on their proposal?** Will students generate videos for review by others?  Might you facilitate on live video conference? Could you coordinate an in-class event?
+
+**Which CS standards are addressed in creating the proposal?**
+
+{% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
 
