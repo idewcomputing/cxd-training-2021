@@ -30,6 +30,10 @@ Dr. Mathew Palakal _\*\*_is a professor of Informatics in the IU School of Infor
 
 ## Instructor Team
 
+### Dr. Aqueasha Martin-Hammond
+
+{% embed url="https://soic.iupui.edu/people/aqueasha-martin-hammond/" %}
+
 ### Matthew Baron
 
 {% embed url="https://www.herronhighschool.org/person/matthew-baron/" %}
