@@ -88,7 +88,7 @@ How much detail will you expect in student proposals? How might you discuss the 
 
 ## **★ PROPOSAL PRESENTATION**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/2185634811684360b1bbece68ff47d91" %}
 
 {% hint style="info" %}
 ### We recommend that you complete an example proposal as one of the three artifacts for the [workshop final deliverable](workshop-deliverable.md).
