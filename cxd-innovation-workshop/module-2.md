@@ -84,6 +84,7 @@ How much detail will you expect in student proposals? How might you discuss the 
 * [_Personas Make Users Memorable for Product Team Members_ from Nielsen Norman Group](https://www.nngroup.com/articles/persona/).
 * [Persona Template](https://drive.google.com/open?id=1osCQyHANhkd-mhSi3pqS-eDHLCoJ6HWfLkiK4UPMOkI)
 * [Value Propositions](https://docs.idew.org/principles-and-practices/practices/design-practices/value-proposition)
+* [Feature Mapping Template](https://docs.google.com/drawings/d/1OEoQqVJDBLXdPB3JnsXv3474TWtEQ7uTLy_Pfs-y18Q/edit?usp=sharing) ★
 
 ## **★ PROPOSAL PRESENTATION**
 
