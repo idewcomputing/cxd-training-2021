@@ -4,7 +4,7 @@
 
 #### _**Driving Question for Students:**_  **Which problem will you solve and what improvement do you propose**_**?**_
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/60e628e1e9694aa6acc82c5e2784adab" %}
 
 Recall the **basic anatomy of a problem** discussed earlier...
 
