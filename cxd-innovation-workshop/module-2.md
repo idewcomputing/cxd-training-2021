@@ -18,8 +18,9 @@ Each project will address the elements in the canvas below, often using very sim
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-Here is an **example canvas** with notes.  
-![](../.gitbook/assets/trivia_-1-define-problem-and-propose-solution-canvas-with-notes.png) 
+Here is an **example canvas** with notes.
+
+![](../.gitbook/assets/trivia_-1-define-problem-and-propose-solution-canvas-with-notes.png)
 
 #### 👉 Check the ****[**google drive resources**](resources.md) for canvas templates you may want to use.
 
