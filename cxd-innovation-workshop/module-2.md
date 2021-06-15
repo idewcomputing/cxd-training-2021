@@ -8,6 +8,8 @@
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
+#### Example Canvas with Notes
+
 {% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
 👉 Check the [google drive resources](resources.md) for canvas templates you may want to use.
@@ -26,7 +28,7 @@ How accessible are stakeholders and the problem context to the students?
 How will you facilitate the tutorials or experiments with the programming and technology?  
 How proficient will students need to be with the technology to begin defining the problem and ideas for solving it?
 
-**Which CS standards are addressed in these activities?**
+**Which CS standards are addressed in the identified activities for the project?**
 
 {% embed url="https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf" %}
 
