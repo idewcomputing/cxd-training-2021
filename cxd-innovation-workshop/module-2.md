@@ -67,7 +67,7 @@ Will you have students do a competitive analysis or a slightly different approac
 
 ## **✓ Stakeholder Profiles & Narratives │ ✓ Value Proposition & Potential Features Map**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/a5eb3f0fc8704aee9774b3eab605a442" %}
 
 ### Identify activities that help students meet stakeholders and co-develop an accurate narrative about the problem and proposed solution. 
 
