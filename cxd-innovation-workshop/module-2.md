@@ -46,7 +46,7 @@ How proficient will students need to be with the technology to begin defining th
 
 ## **✓ Initial Ideas & Evaluation │ ✓ Existing Solution Analysis**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/8952ae71a2d84335a642ecec2602ff70" %}
 
 ### Identify the activities that help students consider a diverse set of solutions and evaluate each for potential. 
 
