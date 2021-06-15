@@ -96,7 +96,7 @@ How much detail will you expect in student proposals? How might you discuss the 
 
 ### **What is your plan to help students present a succinct proposal and collect further feedback on their proposal?** 
 
-Will students generate videos for review by others?  Might you facilitate on live video conference? Could you coordinate an in-class event?
+Will students generate videos for review by others?  Might you facilitate a live video conference? Could you coordinate an in-class event?
 
 **Which CS standards are addressed in creating the proposal?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
 
