@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
-Recall the basic anatomy of a problem discussed earlier...
+Recall the **basic anatomy of a problem** discussed earlier...
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
@@ -14,15 +14,15 @@ In this phase students will develop **a model of the problem** through research 
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-Each project will address the elements in the canvas below, often using very similar methods.
+Each project will address the elements in the canvas below, often using very similar methods but **adapted for the context**.
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-Here is an example canvas with notes.
+Here is an **example canvas** with notes.
 
 {% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
-👉 Check the [google drive resources](resources.md) for canvas templates you may want to use.
+👉 Check the ****[**google drive resources**](resources.md) for canvas templates you may want to use.
 
 ## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
