@@ -6,9 +6,19 @@
 
 ![](../.gitbook/assets/vidcoming.png)
 
+Recall the basic anatomy of a problem discussed earlier...
+
+![](../.gitbook/assets/image%20%286%29.png)
+
+In this phase students will develop **a model of the problem** through research and analysis, consider **a diverse set of ideas** for solving the problem, and then deliver **a proposal** for further development.
+
+![](../.gitbook/assets/image%20%2814%29.png)
+
+Each project will address the elements in the canvas below, often using very similar methods.
+
 ![](../.gitbook/assets/image%20%283%29.png)
 
-#### Example Canvas with Notes
+Here is an example canvas with notes.
 
 {% embed url="https://docs.google.com/drawings/d/1nXnzA0pk3fQR9Zxc4JohpVwYRb4qxArzINufVNjoIeE/edit?usp=sharing" %}
 
