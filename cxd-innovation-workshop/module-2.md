@@ -26,7 +26,7 @@ Here is an **example canvas** with notes.
 
 ## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/71ef9e18200742d2a5dbca6cd5dd149d" %}
 
 ### Identify the project activities that analyze and describe the problem context and stakeholders.
 
