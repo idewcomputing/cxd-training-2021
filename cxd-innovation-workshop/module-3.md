@@ -90,7 +90,7 @@ How will the projects be promoted to the broader community? How much time and re
 
 ### Demonstrate the pilot development with promotional plan and collect feedback from peers.
 
-How will students demonstrate pilot builds? Live video, recorded video, or in-person? How will you direct students to prompt for feedback?
+How will students demonstrate pilot builds — live video, recorded video, or in-person? How will you direct students to prompt for feedback?
 
 **Which CS standards are addressed in the identified activities for the project?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
 
