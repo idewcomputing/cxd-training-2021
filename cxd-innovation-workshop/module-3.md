@@ -84,7 +84,7 @@ How do you want students to plan the development? How will they track progress a
 
 ## **✓ Pilot Development & Testing  │ ✓ Plan for Launch & Promotion**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/70dbf45352c94df4b8f5664a2ed95808" %}
 
 #### ![](../.gitbook/assets/slackicon.png)PROMPTS TO CONSIDER FOR SLACK CONVERSATION 
 
