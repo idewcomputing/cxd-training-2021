@@ -36,7 +36,7 @@ Once again, students will apply the analyze, create, and deliver cycle, but with
 
 ##  **✓ Prototypes │ ✓ Prototype Evaluations**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/3ed6c38c460441d79c34ec4b11ea0269" %}
 
 #### ![](../.gitbook/assets/slackicon.png)PROMPTS TO CONSIDER FOR SLACK CONVERSATION  
 
