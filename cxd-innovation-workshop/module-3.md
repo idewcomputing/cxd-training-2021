@@ -10,11 +10,11 @@
 
 {% embed url="https://docs.google.com/drawings/d/16kihbiHeui\_\_byOebXS6WQppA46Mk\_\_2UZUqFksY6kY/edit?usp=sharing" %}
 
+### **A Repeating Pattern**
+
 Once again, students will apply the analyze, create, and deliver cycle, but with an increased fidelity of the solution. In this phase students will **analyze the feedback from the proposal**, consider **a set of prototypes** that define more detail in their solution, and then deliver **a specification** for further further development — usually to begin the actual programming and building.
 
 ![](../.gitbook/assets/image%20%2814%29.png)
-
-### **A Repeating Pattern**
 
 "While it does typify the design process as a whole, in practice **the elaboration and reduction process must be continuously repeated** time and again throughout the course of design. From information architecture, to visual design, to the functional prototype, each stage must be explored in full, then lovingly honed down to a precise solution." - **​**[**Tyler Tate \(Concerning Fidelity in Design on UX Booth\)**](https://www.uxbooth.com/articles/concerning-fidelity-and-design/)
 
