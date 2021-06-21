@@ -56,6 +56,10 @@ How will students conduct evaluations? Will there be another set of prototypes o
 * **​**[**Concerning Fidelity in Design on UX Booth**](https://www.uxbooth.com/articles/concerning-fidelity-and-design/) **by Tyler Tate**
 * [**Marvel App for Screen Interface Prototyping**](https://marvelapp.com/)\*\*\*\*
 
+{% hint style="info" %}
+### We recommend that you create an example prototype as one of the three artifacts for the [workshop final deliverable](workshop-deliverable.md).
+{% endhint %}
+
 ## **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
 
 ![](../.gitbook/assets/vidcoming.png)
