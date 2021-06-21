@@ -40,6 +40,10 @@ How will students conduct evaluations? Will there be another set of prototypes o
 
 #### **GENERAL PURPOSE RESOURCES**
 
+* [**Thinking Aloud** **from Nielsen Norman Group**](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/)
+* **​**[**Concerning Fidelity in Design on UX Booth**](https://www.uxbooth.com/articles/concerning-fidelity-and-design/) **by Tyler Tate**
+* [**Marvel App for Screen Interface Prototyping**](https://marvelapp.com/)\*\*\*\*
+
 ## **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
 
 ![](../.gitbook/assets/vidcoming.png)
@@ -48,7 +52,7 @@ How will students conduct evaluations? Will there be another set of prototypes o
 
 ### Determine the solution specifications, logic, and interactions. 
 
-Will you use a story/feature map? How much detail will you expect from students as they determine what they will program and build?
+Will you use a story/feature map? How much detail will you expect from students as they determine what they will program and build? Will the use pseudo-code or another technique to get started?
 
 ### Prioritize development tasks and determine a plan to incrementally test the solution.
 
@@ -57,6 +61,10 @@ How do you want students to plan the development? How will they track progress a
 **Which CS standards are addressed in the identified activities for the project?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
 
 #### **GENERAL PURPOSE RESOURCES**
+
+* \*\*\*\*[**Planning with Pseudo-code**](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)\*\*\*\*
+* [**A Quick Guide on Story Mapping**](https://www.lucidchart.com/blog/how-to-create-a-user-story-map)\*\*\*\*
+* \*\*\*\*[**Story/Feature Mapping Template**](https://docs.google.com/drawings/d/1OEoQqVJDBLXdPB3JnsXv3474TWtEQ7uTLy_Pfs-y18Q/edit?usp=sharing)\*\*\*\*
 
 ## **✓ Pilot Development & Testing  │ ✓ Plan for Launch & Promotion**
 
@@ -74,8 +82,6 @@ How will the projects be promoted to the broader community? How much time and re
 
 **Which CS standards are addressed in the identified activities for the project?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
 
-#### **GENERAL PURPOSE RESOURCES**
-
 ## **★ PILOT DEMONSTRATION**
 
 ![](../.gitbook/assets/vidcoming.png)
@@ -87,6 +93,4 @@ How will the projects be promoted to the broader community? How much time and re
 How will students demonstrate pilot builds? Live video, recorded video, or in-person? How will you direct students to prompt for feedback?
 
 **Which CS standards are addressed in the identified activities for the project?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
-
-#### **GENERAL PURPOSE RESOURCES**
 
