@@ -94,7 +94,7 @@ How frequent will the check-ins be? What might trigger an intervention to get te
 
 ### Determine the key actions to launch your solution with high impact.
 
-How will the projects be promoted to the broader community? How much time and resources be dedicated to the promotion?
+How will the projects be promoted to the broader community? How much time and resources will be dedicated to the promotion?
 
 **Which CS standards are addressed in the identified activities for the project?** [**🔗IN CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)\*\*\*\*
 
