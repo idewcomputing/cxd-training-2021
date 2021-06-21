@@ -4,7 +4,7 @@
 
 #### _**Driving Question for Students:**_  **What specific solution will you provide and how will you design and build it**_**?**_
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/91a5efa4734645799daf4c833680e789" %}
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
