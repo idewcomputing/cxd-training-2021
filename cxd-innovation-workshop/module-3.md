@@ -100,7 +100,7 @@ How will the projects be promoted to the broader community? How much time and re
 
 ## **★ PILOT DEMONSTRATION**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/5b5939c0de7b4c579991eb7c325a61dc" %}
 
 #### ![](../.gitbook/assets/slackicon.png)PROMPTS TO CONSIDER FOR SLACK CONVERSATION 
 
