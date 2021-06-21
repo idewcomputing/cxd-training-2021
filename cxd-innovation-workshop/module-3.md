@@ -23,7 +23,7 @@ Once again, students will apply the analyze, create, and deliver cycle, but with
 👉 Check the [google drive resources](https://app.gitbook.com/@cxd/s/cxd2021/~/drafts/-Mc6CcVPhzSbz-yz1ZuI/cxd-innovation-workshop/resources/~/settings/customization) for canvas templates you may want to use.
 
 {% hint style="warning" %}
-### **Evaluation is central to every aspect of any development.** Dr. Aqueasha Martin-Hammond provides insights on evaluation and the techniques available to you and students for evaluation.
+### **Evaluation is central to every aspect of any development. In the video below,** Dr. Aqueasha Martin-Hammond provides insights on evaluation and the techniques available to you and students for evaluation.
 {% endhint %}
 
 
