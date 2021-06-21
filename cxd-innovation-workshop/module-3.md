@@ -62,7 +62,7 @@ How will students conduct evaluations? Will there be another set of prototypes o
 
 ## **✓ Features Map & System Logic │ ✓ Development Plan & Testing Milestones**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/102a90fe9da8450c92a7b23e56b6488e" %}
 
 #### ![](../.gitbook/assets/slackicon.png)PROMPTS TO CONSIDER FOR SLACK CONVERSATION  
 
