@@ -68,7 +68,7 @@ How will students conduct evaluations? Will there be another set of prototypes o
 
 ### Determine the solution specifications, logic, and interactions. 
 
-Will you use a story/feature map? How much detail will you expect from students as they determine what they will program and build? Will the use pseudo-code or another technique to get started?
+Will you use a story/feature map? How much detail will you expect from students as they determine what they will program and build? Will they use pseudo-code or another technique to get started?
 
 ### Prioritize development tasks and determine a plan to incrementally test the solution.
 
