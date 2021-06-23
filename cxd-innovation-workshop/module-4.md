@@ -2,9 +2,9 @@
 
 ## EVALUATING & REFINING SOLUTIONS
 
-#### Driving Question for Students:  How effective is your solution and how will you improve it?
+### Driving Question for Students: How effective is your solution and how will you improve it?
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/2d850ae781a64ce3b61819705473797d" %}
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
