@@ -40,7 +40,7 @@ What will you require of students regarding the results of the evaluation?
 
 ## **✓ Final Release Launch and Promotion │ ✓ Poster Design**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/5264fee84020466cac2890f32c2da5da" %}
 
 ### Launch the solution with a clear call to action through your promotion. 
 
@@ -48,7 +48,7 @@ How will you expect students to promote their work broadly? How much time will b
 
 ### Present the best artifacts to share the development story.
 
-What expectations will have have on the narrative students provide in their presentations and demonstrations, and how will that map to a poster or similar visual?
+What expectations will you have on the narrative students provide in their presentations and demonstrations, and how will that map to a poster or similar visual?
 
 ##  **✓ Individual Reflections** **│ ✓ Presentation Plan & Practice**
 
