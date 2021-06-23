@@ -64,7 +64,7 @@ What format will you follow for the final presentation event? Will you ask visit
 
 ## **★ FINAL DEMONSTRATION & PRESENTATION**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/ab5b0d4c8f6c4f9e8f80bb1c3fba76fb" %}
 
 ### This is your time to show everybody what you have done and share your story.
 
