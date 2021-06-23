@@ -15,7 +15,7 @@
 
 ## **✓ Pilot Evaluation │ ✓ Final Release Development**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/290d361b9a524b97aa9ef292e9401db8" %}
 
 ### Further evaluate the pilot release with stakeholders. 
 
