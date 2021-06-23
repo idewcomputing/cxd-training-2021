@@ -52,7 +52,7 @@ What expectations will you have on the narrative students provide in their prese
 
 ##  **✓ Individual Reflections** **│ ✓ Presentation Plan & Practice**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/c895be9ad0814604946207c7c83ddf0d" %}
 
 ### Reflect on the experience and the impact on your future. 
 
@@ -60,7 +60,7 @@ How and when will you have students prepare a reflection on the project? Will yo
 
 ### Take the time to know your audience and delivery plan.
 
-What format will follow for the final presentation event? Will you ask visitors to judge for some category awards?
+What format will you follow for the final presentation event? Will you ask visitors to judge for some category awards?
 
 ## **★ FINAL DEMONSTRATION & PRESENTATION**
 
