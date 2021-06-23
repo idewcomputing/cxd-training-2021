@@ -15,8 +15,6 @@
 
 ## **✓ Pilot Evaluation │ ✓ Final Release Development**
 
-#### 
-
 ![](../.gitbook/assets/vidcoming.png)
 
 ### Further evaluate the pilot release with stakeholders. 
