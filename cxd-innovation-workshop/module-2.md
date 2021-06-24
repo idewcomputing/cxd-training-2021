@@ -22,7 +22,7 @@ Here is an **example canvas** with notes.
 
 ![](../.gitbook/assets/trivia_-1-define-problem-and-propose-solution-canvas-with-notes.png)
 
-#### 👉 Check the ****[**google drive resources**](resources.md) for canvas templates you may want to use.
+#### 👉 Check the ****[**google drive resources**](https://docs.idew.org/cxd2021/cxd-innovation-workshop/resources#templates-and-additional-project-material) for canvas templates you may want to use.
 
 ## **✓ Problem Definition & Importance │ ✓ Technology Experimentation & Summary**
 

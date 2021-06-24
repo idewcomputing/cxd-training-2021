@@ -20,7 +20,7 @@ Once again, students will apply the analyze, create, and deliver cycle, but with
 
 ![Source: Tyler Tate, https://www.uxbooth.com/articles/concerning-fidelity-and-design/](../.gitbook/assets/image%20%2815%29.png)
 
-👉 Check the [google drive resources](https://app.gitbook.com/@cxd/s/cxd2021/~/drafts/-Mc6CcVPhzSbz-yz1ZuI/cxd-innovation-workshop/resources/~/settings/customization) for canvas templates you may want to use.
+👉 Check the [google drive resources](https://docs.idew.org/cxd2021/cxd-innovation-workshop/resources#templates-and-additional-project-material) for canvas templates you may want to use.
 
 ### Dr. Martin-Hammond on Evaluation Methods
 
