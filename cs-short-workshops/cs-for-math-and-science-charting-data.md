@@ -1,6 +1,6 @@
 # CS for Math & Science: Charting Data
 
-Student Objectives: 
+**Student Objectives:** 
 
 * collect data
 * process and prepare data for visualization
