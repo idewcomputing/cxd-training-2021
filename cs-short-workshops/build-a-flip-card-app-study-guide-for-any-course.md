@@ -2,7 +2,7 @@
 
 **Student objectives:**
 
-* prepare study content for a course using a spreadsheet
+* prepare a spreadsheet table organizing study content for a course
 * connect the content to a flip card web application \(template\) to share publicly
 * style the application for a fun and engaging experience using _Cascading Style Sheets_
 
