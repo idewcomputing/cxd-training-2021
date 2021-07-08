@@ -82,7 +82,7 @@
 * [Product Evaluation in Computing](cs-short-workshops/product-evaluation.md)
 * [CS for Math & Science: Charting Data](cs-short-workshops/cs-for-math-and-science-charting-data.md)
 * [CS for Language Arts: Natural Language Processing](cs-short-workshops/cs-for-language-arts-natural-language-processing.md)
-* [Build a Flip Card App Study Guide for Any Course](cs-short-workshops/build-a-flip-card-app-study-guide-for-any-course.md)
+* [Build a Flash Card App Study Guide for Any Course](cs-short-workshops/build-a-flip-card-app-study-guide-for-any-course.md)
 
 ## ••••••••••••••••••••••••••••••••••••••••••              Resources
 
