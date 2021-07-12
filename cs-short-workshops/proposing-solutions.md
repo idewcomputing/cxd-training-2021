@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-{% embed url="https://www.loom.com/share/a71a39ea7bb34601b2b79864b9c5ebc2" %}
+{% embed url="https://www.loom.com/share/95a47e6c1dd14964b07b83c92aed604a" %}
 
 ### **Project Guide**
 
