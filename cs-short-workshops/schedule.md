@@ -73,7 +73,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left">
         <p><b>Wednesday July 14</b>
         </p>
-        <p><b>11:30 pm - 12:30 pm</b>
+        <p><b>11:30 am - 12:30 pm</b>
         </p>
       </td>
     </tr>
@@ -103,7 +103,7 @@ For each workshop there are two scheduled zoom sessions. A zoom link will be add
       <td style="text-align:left">
         <p><b>Thursday July 15</b>
         </p>
-        <p><b>11:30 pm - 12:30 pm</b>
+        <p><b>11:30 am - 12:30 pm</b>
         </p>
       </td>
     </tr>
