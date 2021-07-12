@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-![](../.gitbook/assets/vidcoming.png)
+{% embed url="https://www.loom.com/share/1752d03fb33f4974bc8e3649d3789387" %}
 
 ### **Project Guide**
 
