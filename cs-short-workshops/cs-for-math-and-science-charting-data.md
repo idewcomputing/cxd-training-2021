@@ -16,7 +16,7 @@ While the project guide, linked below, can be used as-is in your classroom, you 
 2. **Follow the project guide and complete an example project to meet your student expectations, as you construct any adapted project instructions documents you will use for your course.** Use our Slack channel `#cross-chart-data` to post questions/answers, to share things you have created or to share additional resources you have found.
 3. **Attend the live Zoom session on Thursday July 15, 11:30 am - 12:30 pm EDT ⏰** The same Zoom link will be used for this meeting
 4. **Continue posting questions and sharing success in Slack `#cross-chart-data`** as you complete your project example and adapted project instructions.
-5. **Submit your project example and adapted project instructions for the workshop deliverable. 🎉** Link is below.
+5. **Submit your project example and adapted project instructions for the workshop deliverable. 🎉** Link is below and the submission code will be shared in Slack and our Zoom meeting.
 
 {% embed url="https://launchboard.app/s/77CWuqkihw0oKPeaCjC4" %}
 
